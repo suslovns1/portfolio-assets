@@ -6,7 +6,7 @@ from flowkit import Flow
 
 f = Flow("CASE 05 · DOCUMENTARY & EXPLAINER PRODUCTION",
          "Semantic Archive Search & Timeline Drafter",
-         "Makes a terabyte footage archive answerable in plain language — and returns a first cut, not a search result.")
+         "Makes a terabyte footage archive answerable in plain language, and returns a first cut.")
 
 f.step(1, "Footage archive",
        "Terabytes of licensed archive, b-roll and interview rushes.",
@@ -19,10 +19,10 @@ f.step(2, "Shot segmentation",
 f.step(3, "Description and indexing",
        "A vision model describes each shot, speech is transcribed, both land in one searchable index.",
        role="ai", chips=["Vision model", "Transcription", "Vector index"],
-       note="Indexing runs once per archive; every project after that queries it for free.")
+       note="Indexed once per archive, reused by every project after.")
 
 f.step(4, "Script-driven retrieval",
-       "The approved script, broken into narrative beats, becomes the query — each beat gets scored candidates.",
+       "The approved script, broken into beats, becomes the query. Each beat gets scored candidates.",
        role="ai", chips=["Semantic retrieval", "Confidence score"])
 
 f.step(5, "Rule-based assembly",
@@ -30,7 +30,7 @@ f.step(5, "Rule-based assembly",
        role="system", chips=["Editorial rules"])
 
 f.step(6, "Editor review",
-       "Low-confidence cuts are flagged on the timeline, not hidden. The system drafts; the editor decides.",
+       "Low-confidence cuts are flagged on the timeline for the editor.",
        role="human")
 
 f.step(7, "Handoff to the editor's NLE",

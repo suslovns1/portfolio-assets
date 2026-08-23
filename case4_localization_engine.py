@@ -11,7 +11,7 @@ f = Flow("CASE 04 · STORYBY · GLOBAL SCALING",
 f.step(1, "Winning creative and target markets",
        "The approved master cut, the edit decisions behind it, and the market list.",
        role="input",
-       note="A creative enters the queue the moment it wins the auction — no hand-off meeting, no ticket.")
+       note="A creative enters the queue the moment it wins the auction.")
 
 f.step(2, "Speech map",
        "Segments the master read into phrases with hard boundaries.",
@@ -21,22 +21,22 @@ f.step(3, "Routing decision",
        "Is this a re-cut of a master that has already been dubbed?",
        role="decision",
        branches=[
-           ("Yes", "Base reuse — the editor's own trim already defines the mapping. 1:1, no re-timing.", "output"),
+           ("Yes", "Base reuse. The editor's trim already defines the mapping, 1:1.", "output"),
            ("No", "Send the read down the adaptive re-timing ladder.", "system"),
        ],
-       note="Five categorical checks, never a statistical guess. This one decision removes the costliest class of dubbing error.")
+       note="Five categorical checks, not a similarity score.")
 
 f.step(4, "Adaptive re-timing ladder",
-       "Each rung is tried only when the previous one runs out of room — the cheapest fix wins.",
+       "Each rung runs only when the previous one runs out of room.",
        role="system",
        chips=["1 · Micro-pacing", "2 · Picture remap", "3 · Semantic condensation"])
 
 f.step(5, "Voice cast and stem-aware mix",
-       "The original music bed survives, because the voice is separated out before the dub goes in.",
+       "The voice is separated out first, so the original music bed survives.",
        role="ai", chips=["Multilingual voice", "Stem separation"])
 
 f.step(6, "Shippability check",
-       "A read that no longer fits the picture is escalated, never shipped quietly.",
+       "A read that no longer fits the picture goes to a person.",
        role="human")
 
 f.step(7, "Localised pack",
@@ -49,8 +49,7 @@ f.outcome([
     ("1.5 h → 0 min", "designer time per release"),
     ("1:1", "fidelity on a re-cut"),
 ])
-f.footnote("Later folded into Case 03, where the same engine runs inside the application. "
-           "Performance figures are presented as relative deltas under NDA.")
+f.footnote("Later folded into Case 03. Figures are relative deltas under NDA.")
 
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "case4_localization_engine.svg")
 print(*f.save(out))

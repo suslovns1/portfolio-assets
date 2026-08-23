@@ -11,12 +11,12 @@ f = Flow("CASE 02 · STORYBY · IN-TOOL AUTOMATION",
 f.step(1, "Creative code",
        "The composition name is the spec: film, scene, hook, on-screen copy, music.",
        role="input",
-       note="The trigger is the naming convention the studio already used — nothing new for the team to learn.")
+       note="The naming convention the studio already used.")
 
 f.step(2, "Parser and asset resolver",
        "Decodes the code, resolves every asset from the library, repairs unreadable media.",
        role="system", chips=["Naming grammar", "Auto-heal", "Preflight report"],
-       note="Real gaps are reported before the queue starts, instead of killing a render halfway through.")
+       note="Gaps are reported before the queue starts.")
 
 f.step(3, "Automated comp build",
        "Footage and hook layout, automatic overlay keying, approved copy from the production database.",
@@ -31,11 +31,11 @@ f.step(5, "Variation matrix and batch render",
        role="system", chips=["Split-test ready", "Renders as video or as statics"])
 
 f.step(6, "Designer review",
-       "Native, fully editable comps come back to the designer — automation never becomes a black box.",
+       "Native, fully editable comps come back to the designer.",
        role="human")
 
 f.step(7, "Variation pack",
-       "Eight variations ready to test; three to ten packs go out on a normal production day.",
+       "Eight variations ready to test. Three to ten packs go out on a normal day.",
        role="output")
 
 f.outcome([
@@ -44,8 +44,7 @@ f.outcome([
     ("20–100 min → minutes", "per pack, hands-on"),
     ("0", "renders lost to gaps"),
 ])
-f.footnote("Later superseded by Case 03, which rebuilt the same production logic outside After Effects. "
-           "Performance figures are presented as relative deltas under NDA.")
+f.footnote("Case 03 rebuilt the same logic outside After Effects. Figures are relative deltas under NDA.")
 
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "case2_ae_automation_suite.svg")
 print(*f.save(out))

@@ -6,7 +6,7 @@ from flowkit import Flow
 
 f = Flow("CASE 01 · BINI GAMES · CREATIVE AUTOMATION",
          "Autonomous AI Creative Engine",
-         "From a campaign brief to a review-ready video pack. The designer directs; the pipeline produces.")
+         "From a campaign brief to a review-ready video pack.")
 
 f.step(1, "Campaign brief",
        "Written by the art director: product, angle, target market, format and the winners to beat.",
@@ -15,32 +15,32 @@ f.step(1, "Campaign brief",
 f.step(2, "Creative direction",
        "An LLM turns the brief into concept angles, a script and a shot-by-shot manifest.",
        role="ai", chips=["LLM Orchestration", "Storyboard Manifest"],
-       note="The manifest is the contract: every step downstream executes it, nothing is improvised.")
+       note="Everything downstream runs off this manifest.")
 
 f.step(3, "Concept sign-off",
        "The motion designer judges the angle before a single generation credit is spent.",
        role="human",
        branches=[
            ("Approve", "The generation queues start.", "system"),
-           ("Needs context", "Back to the art director — a thin brief is answered, not generated around.", "input"),
+           ("Needs context", "Back to the art director for context.", "input"),
        ])
 
 f.step(4, "Parallel asset generation",
        "Four independent queues run off one manifest, each under a hard cost ceiling.",
        role="ai", chips=["Voice cast", "Score & SFX", "Key visuals", "Motion shots"],
-       note="Higgsfield drives the video models; ElevenLabs the voices; Krea and the music library the rest.")
+       note="Higgsfield drives the video models, ElevenLabs the voices.")
 
 f.step(5, "Automated assembly and render",
        "Forced alignment turns the voiceover into a timing grid; shots snap to narration beats.",
        role="system", chips=["Forced Alignment", "Captions", "Auto-ducked music", "Batch render"],
-       note="The whole variant matrix renders unattended — no designer present.")
+       note="The whole variant matrix renders unattended.")
 
 f.step(6, "Side-by-side review",
        "Brief next to the rendered cut: approve in one click, or send it back with notes.",
-       role="human", note="Revisions re-enter at step 2, so the manifest stays the single source of truth.")
+       role="human", note="Revisions re-enter at step 2.")
 
 f.step(7, "Creative pack",
-       "Approved variants — plus an open, layered project file, never a black box.",
+       "Approved variants, plus an open layered project file.",
        role="output")
 
 f.outcome([

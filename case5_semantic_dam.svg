@@ -23,7 +23,7 @@
 <text x="70" y="927" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#059669" text-anchor="middle">7</text>
 <text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 05 · DOCUMENTARY &amp; EXPLAINER PRODUCTION</text>
 <text x="44.0" y="88.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#0F172A" text-anchor="start">Semantic Archive Search &amp; Timeline Drafter</text>
-<text x="44.0" y="114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Makes a terabyte footage archive answerable in plain language — and returns a first cut, not a search result.</text>
+<text x="44.0" y="114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Makes a terabyte footage archive answerable in plain language, and returns a first cut.</text>
 <rect x="44.0" y="134.0" width="892.0" height="1.0" rx="0" fill="#E2E8F0" stroke="none" stroke-width="1"/>
 <rect x="118.0" y="170.0" width="818.0" height="80.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="182.0" width="3.5" height="56.0" rx="2" fill="#94A3B8" stroke="none" stroke-width="1"/>
@@ -51,13 +51,13 @@
 <text x="288.9" y="481.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Transcription</text>
 <rect x="345.9" y="467.0" width="91.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="391.8" y="481.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Vector index</text>
-<text x="140.0" y="504.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">Indexing runs once per archive; every project after that queries it for free.</text>
+<text x="140.0" y="504.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">Indexed once per archive, reused by every project after.</text>
 <rect x="118.0" y="544.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="556.0" width="3.5" height="80.0" rx="2" fill="#7C3AED" stroke="none" stroke-width="1"/>
 <rect x="823.0" y="561.0" width="95.0" height="21.0" rx="10.5" fill="#F5F3FF" stroke="none" stroke-width="1"/>
 <text x="870.5" y="575.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" letter-spacing="1.4">AI SERVICE</text>
 <text x="140.0" y="579.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Script-driven retrieval</text>
-<text x="140.0" y="606.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The approved script, broken into narrative beats, becomes the query — each beat gets scored candidates.</text>
+<text x="140.0" y="606.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The approved script, broken into beats, becomes the query. Each beat gets scored candidates.</text>
 <rect x="140.0" y="617.0" width="127.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="204.0" y="631.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Semantic retrieval</text>
 <rect x="275.9" y="617.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
@@ -75,7 +75,7 @@
 <rect x="793.3" y="809.0" width="124.7" height="21.0" rx="10.5" fill="#FFFBEB" stroke="none" stroke-width="1"/>
 <text x="855.6" y="823.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#B45309" text-anchor="middle" letter-spacing="1.4">HUMAN DECISION</text>
 <text x="140.0" y="827.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Editor review</text>
-<text x="140.0" y="854.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Low-confidence cuts are flagged on the timeline, not hidden. The system drafts; the editor decides.</text>
+<text x="140.0" y="854.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Low-confidence cuts are flagged on the timeline for the editor.</text>
 <rect x="118.0" y="892.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="904.0" width="3.5" height="80.0" rx="2" fill="#059669" stroke="none" stroke-width="1"/>
 <rect x="815.6" y="909.0" width="102.4" height="21.0" rx="10.5" fill="#ECFDF5" stroke="none" stroke-width="1"/>

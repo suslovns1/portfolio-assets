@@ -31,7 +31,7 @@
 <text x="889.1" y="201.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle" letter-spacing="1.4">INPUT</text>
 <text x="140.0" y="205.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Winning creative and target markets</text>
 <text x="140.0" y="232.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The approved master cut, the edit decisions behind it, and the market list.</text>
-<text x="140.0" y="256.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">A creative enters the queue the moment it wins the auction — no hand-off meeting, no ticket.</text>
+<text x="140.0" y="256.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">A creative enters the queue the moment it wins the auction.</text>
 <rect x="118.0" y="296.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="308.0" width="3.5" height="80.0" rx="2" fill="#2563EB" stroke="none" stroke-width="1"/>
 <rect x="830.5" y="313.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
@@ -50,17 +50,17 @@
 <text x="140.0" y="482.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Is this a re-cut of a master that has already been dubbed?</text>
 <rect x="140.0" y="496.0" width="39.0" height="18.0" rx="9" fill="#ECFDF5" stroke="none" stroke-width="1"/>
 <text x="159.5" y="509.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#047857" text-anchor="middle">Yes</text>
-<text x="191.0" y="510.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#475569" text-anchor="start">Base reuse — the editor's own trim already defines the mapping. 1:1, no re-timing.</text>
+<text x="191.0" y="510.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#475569" text-anchor="start">Base reuse. The editor's trim already defines the mapping, 1:1.</text>
 <rect x="140.0" y="522.0" width="32.6" height="18.0" rx="9" fill="#EFF6FF" stroke="none" stroke-width="1"/>
 <text x="156.3" y="535.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#1D4ED8" text-anchor="middle">No</text>
 <text x="184.7" y="536.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13.5" font-weight="400" fill="#475569" text-anchor="start">Send the read down the adaptive re-timing ladder.</text>
-<text x="140.0" y="558.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">Five categorical checks, never a statistical guess. This one decision removes the costliest class of dubbing error.</text>
+<text x="140.0" y="558.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">Five categorical checks, not a similarity score.</text>
 <rect x="118.0" y="598.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="610.0" width="3.5" height="80.0" rx="2" fill="#2563EB" stroke="none" stroke-width="1"/>
 <rect x="830.5" y="615.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
 <text x="874.2" y="629.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1D4ED8" text-anchor="middle" letter-spacing="1.4">AUTOMATED</text>
 <text x="140.0" y="633.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Adaptive re-timing ladder</text>
-<text x="140.0" y="660.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Each rung is tried only when the previous one runs out of room — the cheapest fix wins.</text>
+<text x="140.0" y="660.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Each rung runs only when the previous one runs out of room.</text>
 <rect x="140.0" y="671.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="198.0" y="685.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">1 · Micro-pacing</text>
 <rect x="263.9" y="671.0" width="121.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
@@ -72,7 +72,7 @@
 <rect x="823.0" y="739.0" width="95.0" height="21.0" rx="10.5" fill="#F5F3FF" stroke="none" stroke-width="1"/>
 <text x="870.5" y="753.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" letter-spacing="1.4">AI SERVICE</text>
 <text x="140.0" y="757.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Voice cast and stem-aware mix</text>
-<text x="140.0" y="784.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The original music bed survives, because the voice is separated out before the dub goes in.</text>
+<text x="140.0" y="784.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The voice is separated out first, so the original music bed survives.</text>
 <rect x="140.0" y="795.0" width="127.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="204.0" y="809.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Multilingual voice</text>
 <rect x="275.9" y="795.0" width="109.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
@@ -82,7 +82,7 @@
 <rect x="793.3" y="863.0" width="124.7" height="21.0" rx="10.5" fill="#FFFBEB" stroke="none" stroke-width="1"/>
 <text x="855.6" y="877.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#B45309" text-anchor="middle" letter-spacing="1.4">HUMAN DECISION</text>
 <text x="140.0" y="881.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Shippability check</text>
-<text x="140.0" y="908.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A read that no longer fits the picture is escalated, never shipped quietly.</text>
+<text x="140.0" y="908.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A read that no longer fits the picture goes to a person.</text>
 <rect x="118.0" y="946.0" width="818.0" height="80.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="958.0" width="3.5" height="56.0" rx="2" fill="#059669" stroke="none" stroke-width="1"/>
 <rect x="815.6" y="963.0" width="102.4" height="21.0" rx="10.5" fill="#ECFDF5" stroke="none" stroke-width="1"/>
@@ -102,5 +102,5 @@
 <rect x="707.9" y="1090.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
 <text x="744.4" y="1118.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">1:1</text>
 <text x="744.4" y="1138.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">fidelity on a re-cut</text>
-<text x="44.0" y="1184.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#94A3B8" text-anchor="start">Later folded into Case 03, where the same engine runs inside the application. Performance figures are presented as relative deltas under NDA.</text>
+<text x="44.0" y="1184.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#94A3B8" text-anchor="start">Later folded into Case 03. Figures are relative deltas under NDA.</text>
 </svg>

@@ -17,18 +17,17 @@ f.step(2, "Batch build planner",
        role="system", chips=["Preflight report"])
 
 f.step(3, "Missing-asset review",
-       "The designer closes the real gaps; from there the batch runs unattended.",
+       "The designer closes the gaps, then the batch runs unattended.",
        role="human")
 
 f.step(4, "Unique asset creation",
        "Subscenes and hooks are cut automatically from approved masters; generative shots fill what the library lacks.",
-       role="ai", chips=["Shot detection", "Hook re-cut", "Generative video"],
-       note="The designer now directs unique assets instead of producing each one by hand.")
+       role="ai", chips=["Shot detection", "Hook re-cut", "Generative video"])
 
 f.step(5, "Assembly and captions",
        "A full multi-track timeline — ripple, blade, rate stretch, snapping, live preview — with word-level captions.",
        role="system", chips=["Custom NLE core", "FFmpeg", "WebCodecs"],
-       note="No After Effects anywhere in the chain, and every model runs locally on the designer's machine.")
+       note="No After Effects in the chain. Every model runs locally.")
 
 f.step(6, "Localisation",
        "20+ markets in one pass: voice cast, translated on-screen copy, re-timed captions.",
@@ -44,8 +43,7 @@ f.outcome([
     ("~100%", "of routine automated"),
     ("−80%", "unique asset creation"),
 ])
-f.footnote("Evolved out of Case 02 — the same production logic, rebuilt as a standalone application. "
-           "Performance figures are presented as relative deltas under NDA.")
+f.footnote("Evolved out of Case 02, rebuilt as a standalone application. Figures are relative deltas under NDA.")
 
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "case3_unified_application.svg")
 print(*f.save(out))
