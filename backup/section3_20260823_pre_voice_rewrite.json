@@ -1,0 +1,2761 @@
+[
+ {
+  "object": "block",
+  "type": "heading_1",
+  "heading_1": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "3. Системи креативної автоматизації (архітектура та бізнес-кейси)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "П'ять систем, які я спроєктував і побудував, щоб зняти з моушн-дизайнерів рутину і перетворити швидкість тестування гіпотез на керовану величину. Для кожного кейса нижче — вихідна проблема, архітектура процесу та вимірюваний бізнес-результат.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "🤖 Case 1: Autonomous AI Creative Engine (Bini Games)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "LLM Orchestration • Storyboard Manifest • Jira & Google Drive • Higgsfield (Kling / Seedance) • Krea • ElevenLabs • Music Library & Suno • Forced Alignment • Batch Render",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "⚡"
+   },
+   "color": "blue_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Problem:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " створення перформанс-креативу з нуля забирає у дизайнера 3–6 годин на ролик. Кількість гіпотез, які команда може перевірити за тиждень, упирається вже не в ідеї, а в пропускну здатність продакшену.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "image",
+  "image": {
+   "caption": [],
+   "type": "external",
+   "external": {
+    "url": "https://raw.githubusercontent.com/suslovns1/portfolio-assets/main/case1_autonomous_pipeline.png?v=20260823f"
+   }
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Як працює система",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Creative Direction:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " LLM-оркестратор перетворює бриф арт-директора на концепт-кути, сценарій і покадровий план. Результат — Storyboard Manifest: машиночитний контракт, який далі виконує весь пайплайн.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Designer in Control:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " єдиний human gate стоїть до генерації. Моушн-дизайнер оцінює кут — і або запускає черги, або відправляє бриф назад по контекст. Тонкий бриф тут закривають питанням, а не обходять генерацією.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Cost Control by Design:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " кредити на відео, голос і музику витрачаються лише після цього гейту — кожна з чотирьох черг має власну жорстку стелю вартості.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Deterministic Assembly:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " forced alignment перетворює войсовер на word-level таймінг-сітку. Кадри стають на біти нарації, титри й задакана музика лягають автоматично — кожне рішення про таймінг виводиться з нарації, а не задається вручну.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "No Black Box:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " разом із рендером система віддає відкритий шаровий проєкт, тож дизайнер завжди може доробити руками.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🧩"
+   },
+   "color": "gray_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Моя роль:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " архітектура і реалізація пайплайну — процесна модель, розподіл human / automated, контракт Storyboard Manifest, вибір моделей і механіка контролю вартості генерації.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business Impact",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Turnaround:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 4 години → < 3 хвилин на драфт — прискорення у ~80 разів\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Unit Cost:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " −80% собівартості первинного концепту\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Pipeline Capacity:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " сотні гіпотез на тиждень на одного дизайнера — стеля пропускної здатності самої системи\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Delivered:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 2 000+ концептів і 6 000+ креативів за 6 місяців у Bini Games — у середньому ≈330 концептів і ≈1 000 креативів на місяць",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🎯"
+   },
+   "color": "green_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "divider",
+  "divider": {}
+ },
+ {
+  "object": "block",
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "⚡ Case 2: After Effects Creative Automation Suite (Storyby)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Custom CEP Panel for After Effects • ExtendScript Engine • Airtable Text DB Presync • Local Vocal Isolation & Forced Alignment • Batch Render Queue",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "⚡"
+   },
+   "color": "blue_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Problem:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " рутинне компонування comps в After Effects — пошук ассетів, ручне вирізання фонів, ізоляція вокалу, розстановка титрів і нарізка субтитрів — забирало 20–100 хвилин на один пак, залежно від складності. При цьому один битий ассет зупиняв рендер уже посеред черги.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "image",
+  "image": {
+   "caption": [],
+   "type": "external",
+   "external": {
+    "url": "https://raw.githubusercontent.com/suslovns1/portfolio-assets/main/case2_ae_automation_suite.png?v=20260823f"
+   }
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Як працює система",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Zero Onboarding:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " тригером автоматизації стала конвенція іменування, яку студія вже використовувала. Назва comp і є специфікацією: фільм, сцена, хук, тексти, музика.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Resolver & Auto-Heal:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " панель знаходить кожен файл, лікує нечитабельні медіа і повертає preflight-звіт про реальні прогалини до старту — замість падіння посеред рендеру.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Automated Comp Build:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " розкладка футеджу й хуків, автоматичний color key оверлеїв без ручного ротоскопу, затверджені тексти з Airtable і word-level анімовані субтитри на базі локальної ізоляції вокалу та forced alignment.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Variation Matrix:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 8 варіацій на пак — комбінації hook × copy × music — збираються за один прохід. Саме це перетворює спліт-тест із планової задачі на кнопку.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Render as Video or Statics:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " рендер-черга віддає пак у тому форматі, якого вимагає плейсмент — відео або статика.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Never a Black Box:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " панель віддає нативні, повністю редаговані comps. Автоматизація прискорює дизайнера, а не забирає в нього контроль.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🧩"
+   },
+   "color": "gray_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Моя роль:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ініціатор, архітектор і розробник панелі — від аналізу того, які саме кроки з'їдають час команди, до релізів і підтримки у продакшні.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business Impact",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Daily Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 24–80 готових до тесту креативів на день на одного дизайнера — 8 варіацій × 3–10 паків\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Turnaround:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 20–100 хвилин ручної збірки на пак → хвилини машинного часу. У масштабі дня це 1–16 годин ручної роботи, яких більше немає\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Designer Overhead:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 0 хвилин ручної роботи поза фінальним ревʼю\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Pipeline Reliability:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 0 рендерів, втрачених через відсутні або биті ассети",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🎯"
+   },
+   "color": "green_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Пізніше ця логіка була перенесена за межі After Effects і розвинулась у standalone-застосунок — ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Case 3",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ".",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "divider",
+  "divider": {}
+ },
+ {
+  "object": "block",
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "🎛️ Case 3: Unified Creative Production Application (Storyby)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Cross-Platform Desktop App (Electron · React · TypeScript) • Custom NLE Core • FFmpeg / WebCodecs • Airtable & Google Drive Sync • Local Forced Alignment & Stem Separation • Generative Video",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "⚡"
+   },
+   "color": "blue_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Problem:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " панель із Case 2 зняла рутину всередині After Effects — але сама лишилася заручником AE: ліцензія на кожного дизайнера, стеля можливостей CEP і жодної локалізації в контурі. А найдорожча частина дня, створення унікальних сабсцен і хуків, усе ще була повністю ручною.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "image",
+  "image": {
+   "caption": [],
+   "type": "external",
+   "external": {
+    "url": "https://raw.githubusercontent.com/suslovns1/portfolio-assets/main/case3_unified_application.png?v=20260823f"
+   }
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Як працює система",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Systems of Record:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " застосунок не форкає дані студії. Google Drive лишається бібліотекою ассетів, Airtable — джерелом брифів і затверджених текстів.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Preflight перед роботою:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " build planner розкодовує креативний код у повний план збірки і показує всі відсутні ассети до старту батчу. Дизайнер закриває реальні прогалини — далі система працює без нагляду.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Unique Asset Creation:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " сабсцени й хуки нарізаються автоматично з уже затверджених майстрів — shot detection знаходить межі кадрів, hook re-cut збирає новий хук із наявного, а generative video домальовує те, чого в бібліотеці немає. Дизайнер тепер режисує унікальні ассети, а не виробляє кожен руками.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Standalone Core:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " власний таймлайн-движок (ripple, blade, rate stretch, snapping, real-time preview) на WebCodecs і FFmpeg. Нуль залежності від After Effects.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Local-First AI:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " forced alignment, розділення стемів, аналіз сцен і генерація кадрів працюють на машині дизайнера — без аплоаду, без хмарного рахунку за хвилину, без NDA-ризику.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Localisation & Render:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 20+ ринків за один прогін, а render planner сам обирає найдешевший коректний шлях — stream copy там, де нічого не композититься, і повний frame pipeline там, де композититься.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🧩"
+   },
+   "color": "gray_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Моя роль:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " product owner і solo builder — від процесного аудиту та збору вимог у команди до архітектури, реалізації та впровадження в щоденний продакшн.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business Impact",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Batch Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 8 креативів × 20 ринків = 160 готових відео за один прогін\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Daily Volume:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 480–1 600 локалізованих відео на день при 3–10 прогонах\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Market Reach:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 20+ ринків замість 5–6, і жодної ручної локалізації\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Routine Work:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ~100% рутини автоматизовано; −80% часу на створення унікального ассета\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Tooling Cost:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 0 ліцензій After Effects у продакшн-лінії",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🎯"
+   },
+   "color": "green_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "divider",
+  "divider": {}
+ },
+ {
+  "object": "block",
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "🌍 Case 4: Multi-Language Localisation Engine (Storyby)",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Voice Activity Detection & Forced Alignment • Base-Reuse Routing • 3-Tier Adaptive Re-timing • Semantic LLM Condensation • Multilingual Voice • Stem-Aware Mix",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "⚡"
+   },
+   "color": "blue_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Problem:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " ручна локалізація навіть на 5 мов забирала 1–1.5 години дизайнера — фрази різних мов мають різну довжину, і кожну треба вкласти в картинку вручну. Масштабування на 20+ гео було не дорогим, а фізично неможливим у потрібні терміни.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "image",
+  "image": {
+   "caption": [],
+   "type": "external",
+   "external": {
+    "url": "https://raw.githubusercontent.com/suslovns1/portfolio-assets/main/case4_localization_engine.png?v=20260823f"
+   }
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Як працює система",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "The Decision That Pays:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " перед будь-яким ре-таймінгом движок ставить одне питання — чи це перемонтаж уже задубленого майстра? Перевірка категорична, за набором жорстких умов, а не статистична здогадка.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Base Reuse:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " якщо так, монтажний трим сам задає відповідність — мовна доріжка переноситься 1:1, без жодного розтягування. Найдешевший і найточніший шлях, який пропускає всю решту логіки.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Escalation Ladder:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " якщо ні, працює драбина з трьох рівнів. Мікро-пейсинг у межах непомітного для вуха порогу → двобічна підгонка картинки й аудіо → семантичне скорочення фрази через LLM зі збереженням маркетингового гачка. Наступний рівень вмикається лише тоді, коли попередній вичерпав запас.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Stem-Aware Mix:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " оригінальна музична підкладка виживає, бо голос відділяється окремо — локалізована версія не втрачає саунд-дизайн.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Escalate, Never Ship Quietly:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " репліку, яку не вдалося покласти в картинку, движок ескалює людині, а не відвантажує тихо.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🧩"
+   },
+   "color": "gray_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Моя роль:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " постановка задачі, процесна модель і архітектура рішення — зокрема правило маршрутизації base reuse, яке зняло найдорожчий клас помилок локалізації.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business Impact",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Market Reach:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 5 ринків вручну → 20+ автоматично на кожен креатив\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Batch Output:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 160 дабів на пак — 8 креативів × 20 мов — у фоновому режимі\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Designer Overhead:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 1.5 години на 5 мов → 0 хвилин на 20\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Global Velocity:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " виграшний креатив виходить у 20+ гео в день перемоги в аукціоні\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Fidelity:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " 1:1 точність аудіо на перемонтажах уже задубленого майстра",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🎯"
+   },
+   "color": "green_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Цей движок з'явився раніше за застосунок і згодом був інтегрований усередину ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Case 3",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": ", де локалізація стала одним із кроків загального батчу.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "divider",
+  "divider": {}
+ },
+ {
+  "object": "block",
+  "type": "heading_2",
+  "heading_2": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "🎬 Case 5: Semantic Archive Search & Timeline Drafter",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Scene Detection • Vision-Model Shot Description • Speech Transcription • Vector Index • Semantic Beat Matching • Editorial Rules Engine • EDL / FCPXML Handoff",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "⚡"
+   },
+   "color": "blue_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "quote",
+  "quote": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "The Problem:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " у документальних та аналітичних відео монтажери витрачали до 40% часу на перегляд гігабайтів сирого архівного футажу заради потрібного двосекундного кадру під репліку диктора. Архів існував — але поставити йому питання було неможливо.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "image",
+  "image": {
+   "caption": [],
+   "type": "external",
+   "external": {
+    "url": "https://raw.githubusercontent.com/suslovns1/portfolio-assets/main/case5_semantic_dam.png?v=20260823f"
+   }
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Як працює система",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Index Once, Query Forever:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " архів розбивається на окремі шоти, vision-модель описує, що в кадрі, мовлення транскрибується — усе це лягає у векторний індекс. Індексація йде один раз, кожен наступний проєкт користується нею безкоштовно.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Script as Navigation:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " точкою входу стає не дерево папок, а сценарій. Кожен наративний біт отримує кандидатів-шоти з оцінкою релевантності.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Craft, Encoded:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " правила монтажу — пейсинг, заборона повторів, частка b-roll, ліцензійні обмеження — застосовуються автоматично на етапі складання чернетки.\n• ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Uncertainty Is Surfaced:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " кадри з низькою впевненістю позначаються маркерами прямо на таймлайні. Система робить чернетку — рішення лишається за монтажером.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🧩"
+   },
+   "color": "gray_background"
+  }
+ },
+ {
+  "object": "block",
+  "type": "paragraph",
+  "paragraph": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Моя роль:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " архітектура і реалізація — визначення того, які редакторські рішення можна закодувати, а які мають лишитися за монтажером, і побудова індексу та драфтера таймлайну.",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": null,
+   "color": "default"
+  }
+ },
+ {
+  "object": "block",
+  "type": "callout",
+  "callout": {
+   "rich_text": [
+    {
+     "type": "text",
+     "text": {
+      "content": "Business Impact",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Edit Time:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " до 40% проєкту йшло на пошук кадрів → близько 6%\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Unit Production Cost:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " $100 → $35 за готовий ролик, −65%\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Search Velocity:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " −85% часу на пошук потрібних кадрів\n🚀 ",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": "Query Latency:",
+      "link": null
+     },
+     "annotations": {
+      "bold": true,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    },
+    {
+     "type": "text",
+     "text": {
+      "content": " < 1 секунди на запит природною мовою до всього архіву",
+      "link": null
+     },
+     "annotations": {
+      "bold": false,
+      "italic": false,
+      "strikethrough": false,
+      "underline": false,
+      "code": false,
+      "color": "default"
+     }
+    }
+   ],
+   "icon": {
+    "type": "emoji",
+    "emoji": "🎯"
+   },
+   "color": "green_background"
+  }
+ }
+]
