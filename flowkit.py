@@ -119,7 +119,7 @@ class Flow:
         if note:
             self._text(CARD_X + 22, ly + 24, note, 12.5, 400, INK_3)
 
-        self.marks.append((y + 30, role, n))
+        self.marks.append((y + 30, role, n, bool(branches)))
         self.y = y + h + STEP_GAP
         return y
 
@@ -169,9 +169,9 @@ class Flow:
                              f'stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>')
 
         markers = []
-        for cy, role, n in self.marks:
+        for cy, role, n, forked in self.marks:
             r = ROLES[role]
-            if role == "decision":
+            if role == "decision" or forked:
                 markers.append(f'<path d="M{MARK_X} {cy - 17} L{MARK_X + 17} {cy} '
                                f'L{MARK_X} {cy + 17} L{MARK_X - 17} {cy} Z" '
                                f'fill="{PAPER}" stroke="{r["dot"]}" stroke-width="2"/>')

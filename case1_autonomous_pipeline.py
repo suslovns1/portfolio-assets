@@ -9,7 +9,7 @@ f = Flow("CASE 01 · BINI GAMES · CREATIVE AUTOMATION",
          "From a campaign brief to a review-ready video pack. The designer directs; the pipeline produces.")
 
 f.step(1, "Campaign brief",
-       "Product, angle, target market, format and the reference winners to beat.",
+       "Written by the art director: product, angle, target market, format and the winners to beat.",
        role="input")
 
 f.step(2, "Creative direction",
@@ -18,8 +18,12 @@ f.step(2, "Creative direction",
        note="The manifest is the contract: every step downstream executes it, nothing is improvised.")
 
 f.step(3, "Concept sign-off",
-       "The art director approves the angle before a single generation credit is spent.",
-       role="human")
+       "The motion designer judges the angle before a single generation credit is spent.",
+       role="human",
+       branches=[
+           ("Approve", "The generation queues start.", "system"),
+           ("Needs context", "Back to the art director — a thin brief is answered, not generated around.", "input"),
+       ])
 
 f.step(4, "Parallel asset generation",
        "Four independent queues run off one manifest, each under a hard cost ceiling.",
