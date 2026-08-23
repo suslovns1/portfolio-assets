@@ -46,8 +46,8 @@ f.step(7, "Creative pack",
 f.outcome([
     ("4 h → < 3 min", "brief to first draft"),
     ("−80%", "unit cost per concept"),
-    ("Hundreds / week", "pipeline capacity, per designer"),
-    ("2 000+ / 6 000+", "concepts / creatives delivered"),
+    ("Hundreds / week", "capacity, per designer"),
+    ("2 000+ / 6 000+", "concepts / creatives in 6 months"),
 ])
 f.footnote("Performance figures are presented as relative deltas under NDA.")
 

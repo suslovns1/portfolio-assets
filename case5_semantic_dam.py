@@ -38,9 +38,10 @@ f.step(7, "Handoff to the editor's NLE",
        role="output", chips=["EDL / FCPXML"])
 
 f.outcome([
-    ("−85%", "time spent hunting for a shot"),
-    ("−65%", "unit cost per finished video"),
-    ("< 1 s", "plain-language query across the archive"),
+    ("40% → 6%", "of edit time spent searching"),
+    ("$100 → $35", "cost per finished video"),
+    ("−85%", "shot-hunting time"),
+    ("< 1 s", "query across terabytes"),
 ])
 f.footnote("Performance figures are presented as relative deltas under NDA.")
 

@@ -39,10 +39,10 @@ f.step(7, "Variation pack",
        role="output")
 
 f.outcome([
-    ("20–100 min → minutes", "to build one creative pack"),
-    ("8 × 3–10", "variations per pack · packs per day"),
-    ("0", "designer minutes beyond review"),
-    ("100%", "editable native comps"),
+    ("24–80", "creatives per day"),
+    ("8 × 3–10", "per pack × packs per day"),
+    ("20–100 min → minutes", "per pack, hands-on"),
+    ("0", "renders lost to gaps"),
 ])
 f.footnote("Later superseded by Case 03, which rebuilt the same production logic outside After Effects. "
            "Performance figures are presented as relative deltas under NDA.")

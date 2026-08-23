@@ -44,10 +44,10 @@ f.step(7, "Localised pack",
        role="output")
 
 f.outcome([
-    ("1.5 h → minutes", "5 markets by hand vs 20 automated"),
-    ("0", "designer hours per release"),
-    ("20+", "markets live on the day of the win"),
-    ("1:1", "audio fidelity on a re-cut"),
+    ("5 → 20+", "markets per creative"),
+    ("160", "dubs per pack, unattended"),
+    ("1.5 h → 0 min", "designer time per release"),
+    ("1:1", "fidelity on a re-cut"),
 ])
 f.footnote("Later folded into Case 03, where the same engine runs inside the application. "
            "Performance figures are presented as relative deltas under NDA.")

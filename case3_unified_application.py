@@ -35,14 +35,14 @@ f.step(6, "Localisation",
        role="ai", chips=["Multilingual voice", "Stem separation", "Base reuse"])
 
 f.step(7, "Batch render and delivery",
-       "8+ creatives × 20+ languages, rendered and dropped straight into the delivery folder.",
+       "8 creatives × 20 markets = 160 finished videos, dropped straight into the delivery folder.",
        role="output")
 
 f.outcome([
-    ("~100%", "of routine assembly automated"),
-    ("−80%", "time to produce a unique asset"),
-    ("20+", "markets built in one pass"),
-    ("0", "After Effects licences required"),
+    ("160", "localised videos per batch"),
+    ("480–1 600", "per day, at 3–10 batches"),
+    ("~100%", "of routine automated"),
+    ("−80%", "unique asset creation"),
 ])
 f.footnote("Evolved out of Case 02 — the same production logic, rebuilt as a standalone application. "
            "Performance figures are presented as relative deltas under NDA.")

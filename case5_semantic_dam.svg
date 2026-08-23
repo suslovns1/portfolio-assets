@@ -86,13 +86,16 @@
 <text x="186.0" y="979.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">EDL / FCPXML</text>
 <rect x="44.0" y="1026.0" width="892.0" height="96.0" rx="10" fill="#F6FBF8" stroke="#CBE8DA" stroke-width="1.2"/>
 <text x="68.0" y="1053.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#047857" text-anchor="start" letter-spacing="1.8">BUSINESS OUTCOME</text>
-<text x="68.0" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">−85%</text>
-<text x="68.0" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">time spent hunting for a shot</text>
-<rect x="299.7" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="341.7" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">−65%</text>
-<text x="341.7" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">unit cost per finished video</text>
-<rect x="566.9" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="608.9" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">&lt; 1 s</text>
-<text x="608.9" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">plain-language query across the archive</text>
+<text x="68.0" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">40% → 6%</text>
+<text x="68.0" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">of edit time spent searching</text>
+<rect x="287.5" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="324.0" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">$100 → $35</text>
+<text x="324.0" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">cost per finished video</text>
+<rect x="510.8" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="547.2" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">−85%</text>
+<text x="547.2" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">shot-hunting time</text>
+<rect x="694.8" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="731.3" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">&lt; 1 s</text>
+<text x="731.3" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">query across terabytes</text>
 <text x="44.0" y="1154.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#94A3B8" text-anchor="start">Performance figures are presented as relative deltas under NDA.</text>
 </svg>
