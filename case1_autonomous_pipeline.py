@@ -10,7 +10,7 @@ f = Flow("CASE 01 · BINI GAMES · CREATIVE AUTOMATION",
 
 f.step(1, "Campaign brief",
        "Written by the art director: product, angle, target market, format and the winners to beat.",
-       role="input")
+       role="input", chips=["Jira", "Google Drive"])
 
 f.step(2, "Creative direction",
        "An LLM turns the brief into concept angles, a script and a shot-by-shot manifest.",
@@ -27,7 +27,8 @@ f.step(3, "Concept sign-off",
 
 f.step(4, "Parallel asset generation",
        "Four independent queues run off one manifest, each under a hard cost ceiling.",
-       role="ai", chips=["Voice cast", "Score & SFX", "Key visuals", "Motion shots"])
+       role="ai", chips=["Voice cast", "Score & SFX", "Key visuals", "Motion shots"],
+       note="Higgsfield drives the video models; ElevenLabs the voices; Krea and the music library the rest.")
 
 f.step(5, "Automated assembly and render",
        "Forced alignment turns the voiceover into a timing grid; shots snap to narration beats.",
@@ -45,7 +46,8 @@ f.step(7, "Creative pack",
 f.outcome([
     ("4 h → < 3 min", "brief to first draft"),
     ("−80%", "unit cost per concept"),
-    ("Hundreds", "hypotheses per designer, per week"),
+    ("Hundreds / week", "pipeline capacity, per designer"),
+    ("2 000+ / 6 000+", "concepts / creatives delivered"),
 ])
 f.footnote("Performance figures are presented as relative deltas under NDA.")
 
