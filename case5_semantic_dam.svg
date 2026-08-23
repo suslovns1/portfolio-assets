@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1028" viewBox="0 0 1440 1028">
+<defs><radialGradient id="vign" cx="50%" cy="0%" r="105%"><stop offset="0%" stop-color="#0C1220"/><stop offset="100%" stop-color="#080C16"/></radialGradient></defs>
+<rect width="1440" height="1028" fill="#080C16"/>
+<rect x="0" y="0" width="1440" height="1028" fill="url(#vign)"/>
+<rect x="56.0" y="178.0" width="1328.0" height="196.0" rx="14" fill="#0D1424" stroke="#182238" stroke-width="1"/>
+<rect x="56.0" y="400.0" width="1328.0" height="196.0" rx="14" fill="#0D1424" stroke="#182238" stroke-width="1"/>
+<rect x="56.0" y="622.0" width="1328.0" height="196.0" rx="14" fill="#0D1424" stroke="#182238" stroke-width="1"/>
+<path d="M383.5 289.0 L409.5 289.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M409.5 289.0 L402.0 292.8 L402.0 285.2 Z" fill="#3F72C4"/>
+<path d="M707.0 289.0 L733.0 289.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M733.0 289.0 L725.5 292.8 L725.5 285.2 Z" fill="#3F72C4"/>
+<path d="M1030.5 289.0 L1056.5 289.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1056.5 289.0 L1049.0 292.8 L1049.0 285.2 Z" fill="#3F72C4"/>
+<path d="M1205.2 348.0 L1205.2 373.0 Q1205.2 382.0 1196.2 382.0 L729.0 382.0 Q720.0 382.0 720.0 391.0 L720.0 452.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720.0 452.0 L716.2 444.5 L723.7 444.5 Z" fill="#3F72C4"/>
+<rect x="1158.3" y="355.0" width="93.9" height="19" rx="5" fill="#080C16" stroke="#22314C" stroke-width="1"/>
+<text x="1205.2" y="369.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#95A4C0" text-anchor="middle">Indexed shots</text>
+<path d="M479.3 511.0 L523.3 511.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M523.3 511.0 L515.8 514.8 L515.8 507.2 Z" fill="#3F72C4"/>
+<path d="M916.7 511.0 L960.7 511.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M960.7 511.0 L953.2 514.8 L953.2 507.2 Z" fill="#3F72C4"/>
+<path d="M1157.3 570.0 L1157.3 595.0 Q1157.3 604.0 1148.3 604.0 L291.7 604.0 Q282.7 604.0 282.7 613.0 L282.7 674.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M282.7 674.0 L278.9 666.5 L286.4 666.5 Z" fill="#3F72C4"/>
+<path d="M479.3 733.0 L523.3 733.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M523.3 733.0 L515.8 736.8 L515.8 729.2 Z" fill="#3F72C4"/>
+<path d="M916.7 733.0 L960.7 733.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M960.7 733.0 L953.2 736.8 L953.2 729.2 Z" fill="#3F72C4"/>
+<text x="56.0" y="62.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#6A7A99" text-anchor="start" letter-spacing="2.4">CASE 05 · DOCUMENTARY &amp; EXPLAINER PRODUCTION</text>
+<text x="56.0" y="96.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#E9EEF9" text-anchor="start">Semantic Archive Search &amp; Timeline Drafter</text>
+<text x="56.0" y="123.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#95A4C0" text-anchor="start">Makes a terabyte footage archive answerable in plain language — and returns a first cut, not a search result.</text>
+<rect x="56.0" y="144.0" width="1328.0" height="1.0" rx="0" fill="#1A2438" stroke="none" stroke-width="1"/>
+<rect x="64.0" y="190.0" width="208.8" height="29.0" rx="7" fill="#0D1424" stroke="none" stroke-width="1"/>
+<rect x="78.0" y="194.0" width="21.0" height="21.0" rx="6" fill="#162034" stroke="#26334D" stroke-width="1"/>
+<text x="88.5" y="209.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#5A6B8C" text-anchor="middle">1</text>
+<text x="110.0" y="209.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5A6B8C" text-anchor="start" letter-spacing="2.2">ARCHIVE INDEXING</text>
+<rect x="842.4" y="194.0" width="519.6" height="24.0" rx="5" fill="#0D1424" stroke="none" stroke-width="1"/>
+<text x="1354.0" y="209.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A7A99" text-anchor="end">Indexing runs once per archive; every project afterwards queries it for free.</text>
+<path d="M86.0 241.0 A 148.8 11 0 0 1 383.5 241.0 L 383.5 337.0 A 148.8 11 0 0 1 86.0 337.0 Z" fill="#111A2B" stroke="#5C6E90" stroke-width="1.4"/>
+<path d="M86.0 241.0 A 148.8 11 0 0 0 383.5 241.0" fill="none" stroke="#5C6E90" stroke-width="1.4" opacity="0.75"/>
+<text x="104.0" y="268.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Footage Archive</text>
+<text x="104.0" y="288.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Terabytes of licensed archive,</text>
+<text x="104.0" y="305.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">b-roll and interview rushes.</text>
+<rect x="409.5" y="230.0" width="297.5" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="409.5" y="241.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="427.5" y="256.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Shot Segmentation</text>
+<text x="427.5" y="276.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Every file split into discrete</text>
+<text x="427.5" y="293.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">shots with representative frames.</text>
+<rect x="427.5" y="321.0" width="110.8" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="482.9" y="334.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Scene Detection</text>
+<rect x="733.0" y="230.0" width="297.5" height="118.0" rx="11" fill="#171331" stroke="#7C5CD6" stroke-width="1.4"/>
+<rect x="733.0" y="241.0" width="3.0" height="96.0" rx="1.5" fill="#A78BFA" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="751.0" y="256.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Shot Description</text>
+<text x="751.0" y="276.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">A vision model describes what is</text>
+<text x="751.0" y="293.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">on screen; speech is transcribed.</text>
+<rect x="751.0" y="321.0" width="92.0" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="797.0" y="334.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#A78BFA" text-anchor="middle" opacity="0.92">Vision Model</text>
+<path d="M1056.5 241.0 A 148.8 11 0 0 1 1354.0 241.0 L 1354.0 337.0 A 148.8 11 0 0 1 1056.5 337.0 Z" fill="#111A2B" stroke="#5C6E90" stroke-width="1.4"/>
+<path d="M1056.5 241.0 A 148.8 11 0 0 0 1354.0 241.0" fill="none" stroke="#5C6E90" stroke-width="1.4" opacity="0.75"/>
+<text x="1074.5" y="268.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Searchable Index</text>
+<text x="1074.5" y="288.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Embeddings and metadata, queried</text>
+<text x="1074.5" y="305.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">in plain language in under a second.</text>
+<rect x="64.0" y="412.0" width="217.6" height="29.0" rx="7" fill="#0D1424" stroke="none" stroke-width="1"/>
+<rect x="78.0" y="416.0" width="21.0" height="21.0" rx="6" fill="#162034" stroke="#26334D" stroke-width="1"/>
+<text x="88.5" y="431.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#5A6B8C" text-anchor="middle">2</text>
+<text x="110.0" y="431.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5A6B8C" text-anchor="start" letter-spacing="2.2">SCRIPT TO FOOTAGE</text>
+<rect x="816.3" y="416.0" width="545.7" height="24.0" rx="5" fill="#0D1424" stroke="none" stroke-width="1"/>
+<text x="1354.0" y="431.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A7A99" text-anchor="end">The script — not a folder tree — becomes the way an editor navigates the archive.</text>
+<rect x="86.0" y="452.0" width="393.3" height="118.0" rx="11" fill="#111A2B" stroke="#5C6E90" stroke-width="1.4"/>
+<rect x="86.0" y="463.0" width="3.0" height="96.0" rx="1.5" fill="#5C6E90" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="104.0" y="475.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#5C6E90" text-anchor="start" letter-spacing="1.7" opacity="0.85">INPUT</text>
+<text x="104.0" y="495.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Narrative Script</text>
+<text x="104.0" y="515.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">The approved voiceover, broken</text>
+<text x="104.0" y="532.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">into narrative beats.</text>
+<rect x="104.0" y="543.0" width="104.5" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="156.3" y="556.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#5C6E90" text-anchor="middle" opacity="0.92">Beat structure</text>
+<rect x="523.3" y="452.0" width="393.3" height="118.0" rx="11" fill="#171331" stroke="#7C5CD6" stroke-width="1.4"/>
+<rect x="523.3" y="463.0" width="3.0" height="96.0" rx="1.5" fill="#A78BFA" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="541.3" y="475.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#A78BFA" text-anchor="start" letter-spacing="1.7" opacity="0.85">SEMANTIC RETRIEVAL</text>
+<text x="541.3" y="495.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Beat-to-Shot Matcher</text>
+<text x="541.3" y="515.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Retrieves candidate shots for each</text>
+<text x="541.3" y="532.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">beat and scores how well each fits.</text>
+<rect x="541.3" y="543.0" width="117.0" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="599.8" y="556.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#A78BFA" text-anchor="middle" opacity="0.92">Confidence score</text>
+<rect x="960.7" y="452.0" width="393.3" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="960.7" y="463.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="978.7" y="475.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#4F8DF7" text-anchor="start" letter-spacing="1.7" opacity="0.85">CRAFT, ENCODED</text>
+<text x="978.7" y="495.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Editorial Rules</text>
+<text x="978.7" y="515.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Pacing, no-repeat, b-roll ratio and</text>
+<text x="978.7" y="532.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">licence constraints are enforced.</text>
+<rect x="978.7" y="543.0" width="104.5" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="1030.9" y="556.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Assembly Rules</text>
+<rect x="64.0" y="634.0" width="200.0" height="29.0" rx="7" fill="#0D1424" stroke="none" stroke-width="1"/>
+<rect x="78.0" y="638.0" width="21.0" height="21.0" rx="6" fill="#162034" stroke="#26334D" stroke-width="1"/>
+<text x="88.5" y="653.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#5A6B8C" text-anchor="middle">3</text>
+<text x="110.0" y="653.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5A6B8C" text-anchor="start" letter-spacing="2.2">DRAFT &amp; HANDOFF</text>
+<rect x="803.2" y="638.0" width="558.8" height="24.0" rx="5" fill="#0D1424" stroke="none" stroke-width="1"/>
+<text x="1354.0" y="653.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A7A99" text-anchor="end">The system drafts; the editor still decides. Uncertainty is surfaced, never hidden.</text>
+<rect x="86.0" y="674.0" width="393.3" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="86.0" y="685.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="104.0" y="700.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Timeline Draft</text>
+<text x="104.0" y="720.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">A first assembly with b-roll, lower</text>
+<text x="104.0" y="737.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">thirds and titles already in place.</text>
+<rect x="104.0" y="765.0" width="123.3" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="165.6" y="778.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Minutes, not days</text>
+<path d="M539.3 674.0 L 900.7 674.0 L 916.7 733.0 L 900.7 792.0 L 539.3 792.0 L 523.3 733.0 Z" fill="#221A0E" stroke="#C08A2E" stroke-width="1.4"/>
+<text x="720.0" y="697.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#F0B44A" text-anchor="middle" letter-spacing="1.7" opacity="0.85">HUMAN GATE</text>
+<text x="720.0" y="717.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="600" fill="#E9EEF9" text-anchor="middle">Editor Review</text>
+<text x="720.0" y="736.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.4" font-weight="400" fill="#95A4C0" text-anchor="middle">Low-confidence cuts are flagged</text>
+<text x="720.0" y="752.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.4" font-weight="400" fill="#95A4C0" text-anchor="middle">on the timeline, not hidden.</text>
+<rect x="960.7" y="674.0" width="393.3" height="118.0" rx="11" fill="#0C221B" stroke="#2C9E77" stroke-width="1.4"/>
+<rect x="960.7" y="685.0" width="3.0" height="96.0" rx="1.5" fill="#3FD9A0" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="978.7" y="700.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">NLE Handoff</text>
+<text x="978.7" y="720.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Delivered as an editable sequence</text>
+<text x="978.7" y="737.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">in the editor's own tool.</text>
+<rect x="978.7" y="765.0" width="92.0" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="1024.7" y="778.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#3FD9A0" text-anchor="middle" opacity="0.92">EDL / FCPXML</text>
+<rect x="56.0" y="844.0" width="1328.0" height="92.0" rx="12" fill="#0A1D18" stroke="#1E4B3C" stroke-width="1.2"/>
+<rect x="56.0" y="858.0" width="3.0" height="64.0" rx="1.5" fill="#3FD9A0" stroke="none" stroke-width="1"/>
+<text x="76.0" y="870.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#3FD9A0" text-anchor="start" letter-spacing="2.0">BUSINESS OUTCOME</text>
+<text x="76.0" y="902.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#EAFBF4" text-anchor="start">−85%</text>
+<text x="76.0" y="922.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#7FB8A4" text-anchor="start">time spent hunting for a shot</text>
+<text x="505.3" y="902.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#EAFBF4" text-anchor="start">−65%</text>
+<text x="505.3" y="922.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#7FB8A4" text-anchor="start">unit cost per finished video</text>
+<rect x="487.3" y="876.0" width="1.0" height="42.0" rx="0" fill="#1E4B3C" stroke="none" stroke-width="1"/>
+<text x="934.7" y="902.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#EAFBF4" text-anchor="start">&lt; 1 s</text>
+<text x="934.7" y="922.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#7FB8A4" text-anchor="start">plain-language archive query</text>
+<rect x="916.7" y="876.0" width="1.0" height="42.0" rx="0" fill="#1E4B3C" stroke="none" stroke-width="1"/>
+<rect x="56.0" y="975.0" width="13.0" height="13.0" rx="4" fill="#111A2B" stroke="#5C6E90" stroke-width="1.3"/>
+<rect x="58.5" y="977.5" width="2.5" height="8.0" rx="1.2" fill="#5C6E90" stroke="none" stroke-width="1"/>
+<text x="77.0" y="985.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Input / index</text>
+<rect x="190.6" y="975.0" width="13.0" height="13.0" rx="4" fill="#101B32" stroke="#3F72C4" stroke-width="1.3"/>
+<rect x="193.1" y="977.5" width="2.5" height="8.0" rx="1.2" fill="#4F8DF7" stroke="none" stroke-width="1"/>
+<text x="211.6" y="985.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Automated module</text>
+<rect x="344.5" y="975.0" width="13.0" height="13.0" rx="4" fill="#171331" stroke="#7C5CD6" stroke-width="1.3"/>
+<rect x="347.0" y="977.5" width="2.5" height="8.0" rx="1.2" fill="#A78BFA" stroke="none" stroke-width="1"/>
+<text x="365.5" y="985.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">AI service</text>
+<rect x="459.8" y="975.0" width="13.0" height="13.0" rx="4" fill="#221A0E" stroke="#C08A2E" stroke-width="1.3"/>
+<rect x="462.3" y="977.5" width="2.5" height="8.0" rx="1.2" fill="#F0B44A" stroke="none" stroke-width="1"/>
+<text x="480.8" y="985.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Human control point</text>
+<rect x="633.0" y="975.0" width="13.0" height="13.0" rx="4" fill="#0C221B" stroke="#2C9E77" stroke-width="1.3"/>
+<rect x="635.5" y="977.5" width="2.5" height="8.0" rx="1.2" fill="#3FD9A0" stroke="none" stroke-width="1"/>
+<text x="654.0" y="985.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Delivered artefact</text>
+<text x="1384.0" y="985.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#4A5872" text-anchor="end">Performance figures are relative deltas, presented under NDA.</text>
+</svg>

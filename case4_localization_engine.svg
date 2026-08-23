@@ -1,0 +1,186 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1250" viewBox="0 0 1440 1250">
+<defs><radialGradient id="vign" cx="50%" cy="0%" r="105%"><stop offset="0%" stop-color="#0C1220"/><stop offset="100%" stop-color="#080C16"/></radialGradient></defs>
+<rect width="1440" height="1250" fill="#080C16"/>
+<rect x="0" y="0" width="1440" height="1250" fill="url(#vign)"/>
+<rect x="56.0" y="178.0" width="1328.0" height="196.0" rx="14" fill="#0D1424" stroke="#182238" stroke-width="1"/>
+<rect x="56.0" y="400.0" width="1328.0" height="196.0" rx="14" fill="#0D1424" stroke="#182238" stroke-width="1"/>
+<rect x="56.0" y="622.0" width="1328.0" height="196.0" rx="14" fill="#0D1424" stroke="#182238" stroke-width="1"/>
+<rect x="56.0" y="844.0" width="1328.0" height="196.0" rx="14" fill="#0D1424" stroke="#182238" stroke-width="1"/>
+<path d="M479.3 289.0 L523.3 289.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M523.3 289.0 L515.8 292.8 L515.8 285.2 Z" fill="#3F72C4"/>
+<path d="M960.7 289.0 L916.7 289.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M916.7 289.0 L924.2 285.2 L924.2 292.8 Z" fill="#3F72C4"/>
+<path d="M720.0 348.0 L720.0 373.0 Q720.0 382.0 711.0 382.0 L330.0 382.0 Q321.0 382.0 321.0 391.0 L321.0 452.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M321.0 452.0 L317.2 444.5 L324.8 444.5 Z" fill="#3F72C4"/>
+<path d="M556.0 511.0 L636.0 511.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M636.0 511.0 L628.5 514.8 L628.5 507.2 Z" fill="#3F72C4"/>
+<rect x="573.0" y="501.0" width="46.0" height="19" rx="5" fill="#080C16" stroke="#22314C" stroke-width="1"/>
+<text x="596.0" y="515.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#95A4C0" text-anchor="middle">Match</text>
+<path d="M1106.0 511.0 L1200.0 511.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1200.0 511.0 L1192.5 514.8 L1192.5 507.2 Z" fill="#3F72C4"/>
+<path d="M321.0 570.0 L321.0 595.0 Q321.0 604.0 312.0 604.0 L274.3 604.0 Q265.3 604.0 265.3 613.0 L265.3 674.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M265.3 674.0 L261.6 666.5 L269.1 666.5 Z" fill="#3F72C4"/>
+<rect x="289.0" y="577.0" width="64.0" height="19" rx="5" fill="#080C16" stroke="#22314C" stroke-width="1"/>
+<text x="321.0" y="591.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#95A4C0" text-anchor="middle">No match</text>
+<path d="M444.7 733.0 L540.7 733.0" fill="none" stroke="#C08A2E" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M540.7 733.0 L533.2 736.8 L533.2 729.2 Z" fill="#C08A2E"/>
+<rect x="460.7" y="723.0" width="64.0" height="19" rx="5" fill="#080C16" stroke="#22314C" stroke-width="1"/>
+<text x="492.7" y="737.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#95A4C0" text-anchor="middle">Overruns</text>
+<path d="M899.3 733.0 L995.3 733.0" fill="none" stroke="#C08A2E" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M995.3 733.0 L987.8 736.8 L987.8 729.2 Z" fill="#C08A2E"/>
+<rect x="909.4" y="723.0" width="76.0" height="19" rx="5" fill="#080C16" stroke="#22314C" stroke-width="1"/>
+<text x="947.3" y="737.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#95A4C0" text-anchor="middle">At the cap</text>
+<path d="M1174.7 792.0 L1174.7 817.0 Q1174.7 826.0 1165.7 826.0 L199.1 826.0 Q190.1 826.0 190.1 835.0 L190.1 896.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M190.1 896.0 L186.4 888.5 L193.9 888.5 Z" fill="#3F72C4"/>
+<path d="M341.9 885.0 L341.9 896.0" fill="none" stroke="#2C9E77" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<path d="M341.9 896.0 L338.1 888.5 L345.6 888.5 Z" fill="#2C9E77"/>
+<path d="M383.5 955.0 L409.5 955.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M409.5 955.0 L402.0 958.8 L402.0 951.2 Z" fill="#3F72C4"/>
+<path d="M707.0 955.0 L733.0 955.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M733.0 955.0 L725.5 958.8 L725.5 951.2 Z" fill="#3F72C4"/>
+<path d="M1030.5 955.0 L1056.5 955.0" fill="none" stroke="#3F72C4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1056.5 955.0 L1049.0 958.8 L1049.0 951.2 Z" fill="#3F72C4"/>
+<text x="56.0" y="62.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#6A7A99" text-anchor="start" letter-spacing="2.4">CASE 04 · STORYBY · GLOBAL SCALING</text>
+<text x="56.0" y="96.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#E9EEF9" text-anchor="start">Multi-Language Localisation Engine</text>
+<text x="56.0" y="123.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#95A4C0" text-anchor="start">Turns one winning creative into twenty market-ready versions as a background job — zero designer hours.</text>
+<rect x="1121.4" y="49.0" width="262.6" height="25.0" rx="12.5" fill="#0C221B" stroke="#2C9E77" stroke-width="1.2"/>
+<text x="1252.7" y="66.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#3FD9A0" text-anchor="middle" letter-spacing="1.6">SHIPPED · FOLDED INTO CASE 02</text>
+<rect x="56.0" y="144.0" width="1328.0" height="1.0" rx="0" fill="#1A2438" stroke="none" stroke-width="1"/>
+<rect x="64.0" y="190.0" width="226.4" height="29.0" rx="7" fill="#0D1424" stroke="none" stroke-width="1"/>
+<rect x="78.0" y="194.0" width="21.0" height="21.0" rx="6" fill="#162034" stroke="#26334D" stroke-width="1"/>
+<text x="88.5" y="209.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#5A6B8C" text-anchor="middle">1</text>
+<text x="110.0" y="209.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5A6B8C" text-anchor="start" letter-spacing="2.2">INPUT &amp; SPEECH MAP</text>
+<rect x="744.3" y="194.0" width="617.7" height="24.0" rx="5" fill="#0D1424" stroke="none" stroke-width="1"/>
+<text x="1354.0" y="209.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A7A99" text-anchor="end">A creative enters the queue the moment it wins the auction — no hand-off meeting, no ticket.</text>
+<path d="M86.0 241.0 A 196.7 11 0 0 1 479.3 241.0 L 479.3 337.0 A 196.7 11 0 0 1 86.0 337.0 Z" fill="#111A2B" stroke="#5C6E90" stroke-width="1.4"/>
+<path d="M86.0 241.0 A 196.7 11 0 0 0 479.3 241.0" fill="none" stroke="#5C6E90" stroke-width="1.4" opacity="0.75"/>
+<text x="104.0" y="268.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Winning Creative</text>
+<text x="104.0" y="288.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">The approved master cut and the</text>
+<text x="104.0" y="305.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">edit decisions behind it.</text>
+<rect x="523.3" y="230.0" width="393.3" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="523.3" y="241.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="541.3" y="256.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Speech Map</text>
+<text x="541.3" y="276.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Segments the master read into</text>
+<text x="541.3" y="293.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">phrases with hard boundaries.</text>
+<rect x="541.3" y="321.0" width="104.5" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="593.6" y="334.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Voice Activity</text>
+<rect x="652.8" y="321.0" width="73.3" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="689.5" y="334.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Alignment</text>
+<path d="M960.7 241.0 A 196.7 11 0 0 1 1354.0 241.0 L 1354.0 337.0 A 196.7 11 0 0 1 960.7 337.0 Z" fill="#111A2B" stroke="#5C6E90" stroke-width="1.4"/>
+<path d="M960.7 241.0 A 196.7 11 0 0 0 1354.0 241.0" fill="none" stroke="#5C6E90" stroke-width="1.4" opacity="0.75"/>
+<text x="978.7" y="268.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Target Markets</text>
+<text x="978.7" y="288.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">The GEO list marketing wants live</text>
+<text x="978.7" y="305.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">within hours of the win.</text>
+<rect x="64.0" y="412.0" width="217.6" height="29.0" rx="7" fill="#0D1424" stroke="none" stroke-width="1"/>
+<rect x="78.0" y="416.0" width="21.0" height="21.0" rx="6" fill="#162034" stroke="#26334D" stroke-width="1"/>
+<text x="88.5" y="431.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#5A6B8C" text-anchor="middle">2</text>
+<text x="110.0" y="431.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5A6B8C" text-anchor="start" letter-spacing="2.2">AUTOMATED ROUTING</text>
+<rect x="770.5" y="416.0" width="591.5" height="24.0" rx="5" fill="#0D1424" stroke="none" stroke-width="1"/>
+<text x="1354.0" y="431.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A7A99" text-anchor="end">Recognising an already-dubbed master is the single highest-value decision in the engine.</text>
+<path d="M102.0 452.0 L 540.0 452.0 L 556.0 511.0 L 540.0 570.0 L 102.0 570.0 L 86.0 511.0 Z" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<text x="321.0" y="475.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#4F8DF7" text-anchor="middle" letter-spacing="1.7" opacity="0.85">ROUTING DECISION</text>
+<text x="321.0" y="495.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="600" fill="#E9EEF9" text-anchor="middle">Re-cut of a Dubbed Master?</text>
+<text x="321.0" y="514.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.4" font-weight="400" fill="#95A4C0" text-anchor="middle">Five categorical checks —</text>
+<text x="321.0" y="530.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.4" font-weight="400" fill="#95A4C0" text-anchor="middle">never a statistical guess.</text>
+<rect x="636.0" y="452.0" width="470.0" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="636.0" y="463.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="654.0" y="478.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Base Reuse</text>
+<text x="654.0" y="498.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">The editor's own trim already defines</text>
+<text x="654.0" y="515.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">the mapping — reuse 1:1, no re-timing.</text>
+<rect x="654.0" y="543.0" width="148.3" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="728.1" y="556.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Exact by construction</text>
+<circle cx="1216.0" cy="511.0" r="15" fill="#0C221B" stroke="#2C9E77" stroke-width="1.4"/>
+<text x="1216.0" y="516.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#3FD9A0" text-anchor="middle">A</text>
+<text x="1216.0" y="551.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.6" font-weight="400" fill="#6A7A99" text-anchor="middle">Skips the ladder</text>
+<rect x="64.0" y="634.0" width="288.1" height="29.0" rx="7" fill="#0D1424" stroke="none" stroke-width="1"/>
+<rect x="78.0" y="638.0" width="21.0" height="21.0" rx="6" fill="#162034" stroke="#26334D" stroke-width="1"/>
+<text x="88.5" y="653.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#5A6B8C" text-anchor="middle">3</text>
+<text x="110.0" y="653.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5A6B8C" text-anchor="start" letter-spacing="2.2">ADAPTIVE RE-TIMING LADDER</text>
+<rect x="731.2" y="638.0" width="630.8" height="24.0" rx="5" fill="#0D1424" stroke="none" stroke-width="1"/>
+<text x="1354.0" y="653.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A7A99" text-anchor="end">Each rung is tried only when the previous one runs out of room — the cheapest fix always wins.</text>
+<rect x="86.0" y="674.0" width="358.7" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="86.0" y="685.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="104.0" y="700.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Tier 1 · Micro-pacing</text>
+<text x="104.0" y="720.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Stretch the phrase inside a threshold</text>
+<text x="104.0" y="737.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">the ear cannot detect.</text>
+<rect x="104.0" y="765.0" width="92.0" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="150.0" y="778.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Default path</text>
+<rect x="540.7" y="674.0" width="358.7" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="540.7" y="685.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="558.7" y="700.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Tier 2 · Bidirectional Fit</text>
+<text x="558.7" y="720.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">Move picture and audio together when</text>
+<text x="558.7" y="737.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">the phrase still overruns its window.</text>
+<rect x="558.7" y="765.0" width="98.3" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="607.8" y="778.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">Picture remap</text>
+<rect x="995.3" y="674.0" width="358.7" height="118.0" rx="11" fill="#171331" stroke="#7C5CD6" stroke-width="1.4"/>
+<rect x="995.3" y="685.0" width="3.0" height="96.0" rx="1.5" fill="#A78BFA" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="1013.3" y="700.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Tier 3 · Semantic Condensation</text>
+<text x="1013.3" y="720.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">An LLM rewrites the line to fit the</text>
+<text x="1013.3" y="737.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">window with the marketing hook intact.</text>
+<rect x="1013.3" y="765.0" width="123.3" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="1075.0" y="778.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#A78BFA" text-anchor="middle" opacity="0.92">Meaning preserved</text>
+<rect x="64.0" y="856.0" width="200.0" height="29.0" rx="7" fill="#0D1424" stroke="none" stroke-width="1"/>
+<rect x="78.0" y="860.0" width="21.0" height="21.0" rx="6" fill="#162034" stroke="#26334D" stroke-width="1"/>
+<text x="88.5" y="875.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="700" fill="#5A6B8C" text-anchor="middle">4</text>
+<text x="110.0" y="875.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#5A6B8C" text-anchor="start" letter-spacing="2.2">VOICE, MIX &amp; QA</text>
+<rect x="763.9" y="860.0" width="598.1" height="24.0" rx="5" fill="#0D1424" stroke="none" stroke-width="1"/>
+<text x="1354.0" y="875.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#6A7A99" text-anchor="end">The engine escalates a read it cannot place instead of shipping a version nobody checked.</text>
+<rect x="86.0" y="896.0" width="297.5" height="118.0" rx="11" fill="#171331" stroke="#7C5CD6" stroke-width="1.4"/>
+<rect x="86.0" y="907.0" width="3.0" height="96.0" rx="1.5" fill="#A78BFA" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="104.0" y="922.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Multilingual Voice Cast</text>
+<text x="104.0" y="942.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">One casting decision reused across</text>
+<text x="104.0" y="959.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">every market and every creative.</text>
+<rect x="104.0" y="987.0" width="79.5" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="143.8" y="1000.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#A78BFA" text-anchor="middle" opacity="0.92">ElevenLabs</text>
+<rect x="409.5" y="896.0" width="297.5" height="118.0" rx="11" fill="#101B32" stroke="#3F72C4" stroke-width="1.4"/>
+<rect x="409.5" y="907.0" width="3.0" height="96.0" rx="1.5" fill="#4F8DF7" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="427.5" y="922.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Stem-Aware Mix</text>
+<text x="427.5" y="942.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">The original music bed survives</text>
+<text x="427.5" y="959.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">because the voice is separated out.</text>
+<rect x="427.5" y="987.0" width="98.3" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="476.6" y="1000.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#4F8DF7" text-anchor="middle" opacity="0.92">UVR5 / MDX23C</text>
+<path d="M749.0 896.0 L 1014.5 896.0 L 1030.5 955.0 L 1014.5 1014.0 L 749.0 1014.0 L 733.0 955.0 Z" fill="#221A0E" stroke="#C08A2E" stroke-width="1.4"/>
+<text x="881.8" y="919.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10" font-weight="600" fill="#F0B44A" text-anchor="middle" letter-spacing="1.7" opacity="0.85">HUMAN GATE</text>
+<text x="881.8" y="939.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="600" fill="#E9EEF9" text-anchor="middle">Shippability Check</text>
+<text x="881.8" y="958.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.4" font-weight="400" fill="#95A4C0" text-anchor="middle">A read that no longer fits is</text>
+<text x="881.8" y="974.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.4" font-weight="400" fill="#95A4C0" text-anchor="middle">escalated, never shipped quietly.</text>
+<rect x="1056.5" y="896.0" width="297.5" height="118.0" rx="11" fill="#0C221B" stroke="#2C9E77" stroke-width="1.4"/>
+<rect x="1056.5" y="907.0" width="3.0" height="96.0" rx="1.5" fill="#3FD9A0" stroke="none" stroke-width="1" opacity="0.9"/>
+<text x="1074.5" y="922.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="600" fill="#E9EEF9" text-anchor="start">Localised Pack</text>
+<text x="1074.5" y="942.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">20+ markets, burned subtitles</text>
+<text x="1074.5" y="959.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.6" font-weight="400" fill="#95A4C0" text-anchor="start">where the platform requires them.</text>
+<rect x="1074.5" y="987.0" width="110.8" height="18.0" rx="5" fill="#0A1424" stroke="#22314C" stroke-width="1"/>
+<text x="1129.9" y="1000.5" font-family="Menlo, SF Mono, Consolas, monospace" font-size="10.4" font-weight="400" fill="#3FD9A0" text-anchor="middle" opacity="0.92">Ready to launch</text>
+<circle cx="341.9" cy="870.0" r="15" fill="#0C221B" stroke="#2C9E77" stroke-width="1.4"/>
+<text x="341.9" y="875.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#3FD9A0" text-anchor="middle">A</text>
+<rect x="56.0" y="1066.0" width="1328.0" height="92.0" rx="12" fill="#0A1D18" stroke="#1E4B3C" stroke-width="1.2"/>
+<rect x="56.0" y="1080.0" width="3.0" height="64.0" rx="1.5" fill="#3FD9A0" stroke="none" stroke-width="1"/>
+<text x="76.0" y="1092.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#3FD9A0" text-anchor="start" letter-spacing="2.0">BUSINESS OUTCOME</text>
+<text x="76.0" y="1124.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#EAFBF4" text-anchor="start">1.5 h → minutes</text>
+<text x="76.0" y="1144.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#7FB8A4" text-anchor="start">5 markets by hand vs 20 automated</text>
+<text x="398.0" y="1124.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#EAFBF4" text-anchor="start">0</text>
+<text x="398.0" y="1144.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#7FB8A4" text-anchor="start">designer hours per release</text>
+<rect x="380.0" y="1098.0" width="1.0" height="42.0" rx="0" fill="#1E4B3C" stroke="none" stroke-width="1"/>
+<text x="720.0" y="1124.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#EAFBF4" text-anchor="start">20+</text>
+<text x="720.0" y="1144.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#7FB8A4" text-anchor="start">markets live the same day</text>
+<rect x="702.0" y="1098.0" width="1.0" height="42.0" rx="0" fill="#1E4B3C" stroke="none" stroke-width="1"/>
+<text x="1042.0" y="1124.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#EAFBF4" text-anchor="start">1:1</text>
+<text x="1042.0" y="1144.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#7FB8A4" text-anchor="start">audio fidelity on a re-cut</text>
+<rect x="1024.0" y="1098.0" width="1.0" height="42.0" rx="0" fill="#1E4B3C" stroke="none" stroke-width="1"/>
+<rect x="56.0" y="1197.0" width="13.0" height="13.0" rx="4" fill="#111A2B" stroke="#5C6E90" stroke-width="1.3"/>
+<rect x="58.5" y="1199.5" width="2.5" height="8.0" rx="1.2" fill="#5C6E90" stroke="none" stroke-width="1"/>
+<text x="77.0" y="1207.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Input</text>
+<rect x="139.2" y="1197.0" width="13.0" height="13.0" rx="4" fill="#101B32" stroke="#3F72C4" stroke-width="1.3"/>
+<rect x="141.7" y="1199.5" width="2.5" height="8.0" rx="1.2" fill="#4F8DF7" stroke="none" stroke-width="1"/>
+<text x="160.2" y="1207.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Automated module</text>
+<rect x="293.1" y="1197.0" width="13.0" height="13.0" rx="4" fill="#171331" stroke="#7C5CD6" stroke-width="1.3"/>
+<rect x="295.6" y="1199.5" width="2.5" height="8.0" rx="1.2" fill="#A78BFA" stroke="none" stroke-width="1"/>
+<text x="314.1" y="1207.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">AI service</text>
+<rect x="408.4" y="1197.0" width="13.0" height="13.0" rx="4" fill="#221A0E" stroke="#C08A2E" stroke-width="1.3"/>
+<rect x="410.9" y="1199.5" width="2.5" height="8.0" rx="1.2" fill="#F0B44A" stroke="none" stroke-width="1"/>
+<text x="429.4" y="1207.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Human control point</text>
+<rect x="581.6" y="1197.0" width="13.0" height="13.0" rx="4" fill="#0C221B" stroke="#2C9E77" stroke-width="1.3"/>
+<rect x="584.1" y="1199.5" width="2.5" height="8.0" rx="1.2" fill="#3FD9A0" stroke="none" stroke-width="1"/>
+<text x="602.6" y="1207.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#6A7A99" text-anchor="start">Delivered artefact</text>
+<text x="1384.0" y="1207.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.8" font-weight="400" fill="#4A5872" text-anchor="end">Hexagon = decision point. Performance figures are relative deltas, under NDA.</text>
+</svg>
