@@ -1,0 +1,60 @@
+
+digraph G {
+    graph [bgcolor="#0B0F19", fontname="Helvetica, Arial, sans-serif", fontsize=12, pad="0.4", rankdir="LR", nodesep=0.5, ranksep=0.6, splines="ortho"];
+    node [fontname="Helvetica, Arial, sans-serif", shape=box, style="filled,rounded", fontsize=11, fontcolor="#F8FAFC", fillcolor="#131B2E", color="#2563EB", penwidth=1.5, margin="0.2,0.15"];
+    edge [fontname="Helvetica, Arial, sans-serif", fontsize=9, fontcolor="#94A3B8", color="#38BDF8", penwidth=1.5, arrowhead="normal", arrowsize=0.8];
+
+    subgraph cluster_0 {
+        label = "1. Master Creative Analysis";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        master_in [label="Master Creative Audio (EN)", shape=oval, fillcolor="#1E293B", color="#3B82F6"];
+        whisper_vad [label="Whisper AI + Silero VAD\n- Word-level boundaries\n- Speech timing anchor grid"];
+        base_reuse [label="Base-Reuse Matcher\n(Catches source trims 1:1)"];
+
+        master_in -> whisper_vad;
+        master_in -> base_reuse;
+    }
+
+    subgraph cluster_1 {
+        label = "2. 3-Tier Adaptive Sync Engine";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        tier1 [label="Tier 1: Audio Micro-Pacing\n(Phrase time-stretching within threshold)"];
+        tier2 [label="Tier 2: Bidirectional Sync\n(Video remapping + audio acceleration)"];
+        tier3 [label="Tier 3: Semantic LLM Condensation\n(Claude rephrases to fit exact window)"];
+
+        whisper_vad -> tier1;
+        tier1 -> tier2 [label="Overflow", style=dashed, color="#F59E0B"];
+        tier2 -> tier3 [label="Max Limit", style=dashed, color="#EF4444"];
+    }
+
+    subgraph cluster_2 {
+        label = "3. Server-Side Multi-GEO Render";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        dub_render [label="ElevenLabs Multi-Voice Engine\n- High-fidelity actor dubbing\n- Dynamic localized text restyle"];
+        dub_out [label="20+ Ready-to-Serve Global Ads\n(Zero Designer Hours Overhead)", shape=oval, fillcolor="#0F2E1E", color="#10B981"];
+
+        tier1 -> dub_render;
+        tier2 -> dub_render;
+        tier3 -> dub_render;
+        base_reuse -> dub_render;
+        dub_render -> dub_out;
+    }
+}

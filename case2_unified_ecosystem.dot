@@ -1,0 +1,85 @@
+
+digraph G {
+    graph [bgcolor="#0B0F19", fontname="Helvetica, Arial, sans-serif", fontsize=12, pad="0.4", rankdir="TB", nodesep=0.4, ranksep=0.5, splines="ortho"];
+    node [fontname="Helvetica, Arial, sans-serif", shape=box, style="filled,rounded", fontsize=11, fontcolor="#F8FAFC", fillcolor="#131B2E", color="#2563EB", penwidth=1.5, margin="0.2,0.15"];
+    edge [fontname="Helvetica, Arial, sans-serif", fontsize=9, fontcolor="#94A3B8", color="#38BDF8", penwidth=1.5, arrowhead="normal", arrowsize=0.8];
+
+    // Master Ingest
+    subgraph cluster_0 {
+        label = "Track 1: Ingest & Subscene Asset Analysis";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        brief_in [label="Master Creative & Task Ingest\n(Standardized Grammar & Media)", shape=oval, fillcolor="#1E293B", color="#3B82F6"];
+        shot_cut [label="Subscene & Narrative Beat Analyzer\n- Shot Boundary & VAD Segmenter\n- Asset Mapping & Gap Detection"];
+        
+        brief_in -> shot_cut;
+    }
+
+    // Multi-Track Engine
+    subgraph cluster_1 {
+        label = "Track 2 & 3: Automated Creative Assembly & Kinetic Styling Core";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        // Assembly Track
+        t_assemble [label="Automated Timeline Assembler\n- Subscenes & Ingested Hooks\n- Soundtrack & SFX Layering"];
+        
+        // Visual Styling Track
+        t_visual [label="Visual UI & Element Adapter\n- Button & Badge Auto-Scaling\n- Multi-Layer Bounds Normalizer"];
+
+        // Typography Track
+        t_text [label="Kinetic Typography & Captions\n- Word-Level Timestamp Alignment\n- Multiline 110px Inset Safe-Zone"];
+
+        shot_cut -> t_assemble;
+        shot_cut -> t_visual;
+        shot_cut -> t_text;
+    }
+
+    // Localization Track
+    subgraph cluster_2 {
+        label = "Track 4: 20-Language Localization & Stem Engine";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        t_reuse [label="Precise Base-Reuse Engine\n- Source Trim Duration Matcher\n- 1:1 Re-dub Alignment Grid"];
+        t_uvr [label="Batch UVR5 Stem Isolation\n- Multi-Span Vocals / Music Split\n- Zero CPU/GPU Freeze Pipeline"];
+        t_trans [label="Multilingual Asset Localization\n- Translated UI Overlays & Texts\n- ElevenLabs Multi-Voice Gen"];
+
+        t_assemble -> t_reuse;
+        t_visual -> t_trans;
+        t_text -> t_trans;
+        shot_cut -> t_uvr;
+    }
+
+    // Headless Output
+    subgraph cluster_3 {
+        label = "Production Output: Headless AE Execution";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        ae_batch [label="Headless AE Render Server\n- Multi-Pack Batch Processing\n- Automated Multi-GEO Queues"];
+        ready_ads [label="Delivered Packs (8+ Creatives × 20+ Languages)\nZero Blank-Timeline Designer Overhead (80% Time Saved)", shape=oval, fillcolor="#0F2E1E", color="#10B981"];
+
+        t_reuse -> ae_batch;
+        t_uvr -> ae_batch;
+        t_trans -> ae_batch;
+        ae_batch -> ready_ads;
+    }
+}

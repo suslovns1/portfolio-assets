@@ -1,0 +1,54 @@
+
+digraph G {
+    graph [bgcolor="#0B0F19", fontname="Helvetica, Arial, sans-serif", fontsize=12, pad="0.4", rankdir="LR", nodesep=0.5, ranksep=0.6, splines="ortho"];
+    node [fontname="Helvetica, Arial, sans-serif", shape=box, style="filled,rounded", fontsize=11, fontcolor="#F8FAFC", fillcolor="#131B2E", color="#2563EB", penwidth=1.5, margin="0.2,0.15"];
+    edge [fontname="Helvetica, Arial, sans-serif", fontsize=9, fontcolor="#94A3B8", color="#38BDF8", penwidth=1.5, arrowhead="normal", arrowsize=0.8];
+
+    subgraph cluster_0 {
+        label = "1. Video Footage Ingest & Vision AI";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        raw_tb [label="Raw Footage Archives (TBs)", shape=oval, fillcolor="#1E293B", color="#3B82F6"];
+        pyscene [label="PySceneDetect Engine\n(Dissects into discrete cut frames)"];
+        vision_ai [label="Multimodal Vision AI (CLIP)\n(Extracts mood, military gear, objects)"];
+        qdrant [label="Qdrant Vector Database\n(Sub-second semantic embeddings)", shape=cylinder, fillcolor="#1E293B", color="#64748B"];
+
+        raw_tb -> pyscene -> vision_ai -> qdrant;
+    }
+
+    subgraph cluster_1 {
+        label = "2. Claude Editorial & Semantic Matcher";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        doc_script [label="Documentary Script (Markdown)\n+ Editorial Narrative Pacing Rules", shape=note, fillcolor="#1E293B", color="#64748B"];
+        matcher [label="Semantic Matcher Engine\n- Maps narrative beats to cuts\n- Evaluates visual confidence score"];
+
+        doc_script -> matcher;
+        qdrant -> matcher;
+    }
+
+    subgraph cluster_2 {
+        label = "3. Automated Timeline Drafting & NLE Export";
+        fontcolor = "#38BDF8";
+        fontsize = 13;
+        color = "#334155";
+        style = "rounded,dashed";
+        bgcolor = "#0F172A";
+        margin = 15;
+
+        timeline_builder [label="Automated Assembly Engine\n- Auto-inserts B-roll, lower thirds & titles\n- Color-flags low-confidence cuts"];
+        nle_out [label="Native AE Comp & EDL/XML\n(-65% Unit Cost Reduction)", shape=oval, fillcolor="#0F2E1E", color="#10B981"];
+
+        matcher -> timeline_builder -> nle_out;
+    }
+}
