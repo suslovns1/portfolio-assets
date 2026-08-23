@@ -4,9 +4,9 @@ digraph G {
     node [fontname="Helvetica, Arial, sans-serif", shape=box, style="filled,rounded", fontsize=11, fontcolor="#F8FAFC", fillcolor="#131B2E", color="#2563EB", penwidth=1.5, margin="0.2,0.15"];
     edge [fontname="Helvetica, Arial, sans-serif", fontsize=9, fontcolor="#94A3B8", color="#38BDF8", penwidth=1.5, arrowhead="normal", arrowsize=0.8];
 
-    // Master Ingest
+    // Ingest & Integrations
     subgraph cluster_0 {
-        label = "Track 1: Ingest & Subscene Asset Analysis";
+        label = "Track 1: Cloud Ingest & Enterprise Integrations";
         fontcolor = "#38BDF8";
         fontsize = 13;
         color = "#334155";
@@ -14,15 +14,19 @@ digraph G {
         bgcolor = "#0F172A";
         margin = 15;
 
-        brief_in [label="Master Creative & Task Ingest\n(Standardized Grammar & Media)", shape=oval, fillcolor="#1E293B", color="#3B82F6"];
-        shot_cut [label="Subscene & Narrative Beat Analyzer\n- Shot Boundary & VAD Segmenter\n- Asset Mapping & Gap Detection"];
-        
-        brief_in -> shot_cut;
+        gdrive [label="Google Drive Asset Hub\n(Footage & Master Media Sync)", shape=cylinder, fillcolor="#1E293B", color="#64748B"];
+        airtable [label="Airtable DB Sync\n(Campaign Briefs & Copy)", shape=cylinder, fillcolor="#1E293B", color="#64748B"];
+        seedance [label="Seedance 2.0 AI Engine\n(Custom Generative Video/Stills)", shape=box, fillcolor="#1E293B", color="#3B82F6"];
+        smartcut [label="SmartCut Analyzer\n- Subscene & Hook Cut Detection\n- Audio/VAD Beat Segmentation"];
+
+        gdrive -> smartcut;
+        airtable -> smartcut;
+        seedance -> smartcut;
     }
 
-    // Multi-Track Engine
+    // Multi-Track Processing Core
     subgraph cluster_1 {
-        label = "Track 2 & 3: Automated Creative Assembly & Kinetic Styling Core";
+        label = "Track 2 & 3: Standalone Core Engine (WebCodecs & Custom Timeline)";
         fontcolor = "#38BDF8";
         fontsize = 13;
         color = "#334155";
@@ -31,22 +35,22 @@ digraph G {
         margin = 15;
 
         // Assembly Track
-        t_assemble [label="Automated Timeline Assembler\n- Subscenes & Ingested Hooks\n- Soundtrack & SFX Layering"];
+        t_assemble [label="Custom Timeline Assembler\n- Subscenes & Dynamic Hooks\n- Rate Stretch, Ripple & Blade"];
         
         // Visual Styling Track
         t_visual [label="Visual UI & Element Adapter\n- Button & Badge Auto-Scaling\n- Multi-Layer Bounds Normalizer"];
 
         // Typography Track
-        t_text [label="Kinetic Typography & Captions\n- Word-Level Timestamp Alignment\n- Multiline 110px Inset Safe-Zone"];
+        t_text [label="Word-Level Kinetic Captions\n- WhisperX Micro-Alignment\n- Multiline 110px Safe-Zone"];
 
-        shot_cut -> t_assemble;
-        shot_cut -> t_visual;
-        shot_cut -> t_text;
+        smartcut -> t_assemble;
+        smartcut -> t_visual;
+        smartcut -> t_text;
     }
 
     // Localization Track
     subgraph cluster_2 {
-        label = "Track 4: 20-Language Localization & Stem Engine";
+        label = "Track 4: 20-Language Localization & Audio Separation";
         fontcolor = "#38BDF8";
         fontsize = 13;
         color = "#334155";
@@ -61,12 +65,12 @@ digraph G {
         t_assemble -> t_reuse;
         t_visual -> t_trans;
         t_text -> t_trans;
-        shot_cut -> t_uvr;
+        smartcut -> t_uvr;
     }
 
-    // Headless Output
+    // Standalone Render Output
     subgraph cluster_3 {
-        label = "Production Output: Headless AE Execution";
+        label = "Production Output: Native High-Performance Renderer";
         fontcolor = "#38BDF8";
         fontsize = 13;
         color = "#334155";
@@ -74,12 +78,12 @@ digraph G {
         bgcolor = "#0F172A";
         margin = 15;
 
-        ae_batch [label="Headless AE Render Server\n- Multi-Pack Batch Processing\n- Automated Multi-GEO Queues"];
+        native_render [label="Bundled FFmpeg & WebCodecs Pipeline\n- Multi-Pack Batch Processing (No AE Dependency)\n- High-Speed Multi-GEO Render Queues"];
         ready_ads [label="Delivered Packs (8+ Creatives × 20+ Languages)\nZero Blank-Timeline Designer Overhead (80% Time Saved)", shape=oval, fillcolor="#0F2E1E", color="#10B981"];
 
-        t_reuse -> ae_batch;
-        t_uvr -> ae_batch;
-        t_trans -> ae_batch;
-        ae_batch -> ready_ads;
+        t_reuse -> native_render;
+        t_uvr -> native_render;
+        t_trans -> native_render;
+        native_render -> ready_ads;
     }
 }
