@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1212" viewBox="0 0 980 1212">
+<rect width="980" height="1212" fill="#FFFFFF"/>
+<path d="M70 200 L70 972" stroke="#CBD5E1" stroke-width="2" fill="none"/>
+<path d="M65 258.0 L70 265.0 L75 258.0" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65 382.0 L70 389.0 L75 382.0" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65 494.0 L70 501.0 L75 494.0" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65 619.0 L70 626.0 L75 619.0" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65 769.0 L70 776.0 L75 769.0" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M65 906.0 L70 913.0 L75 906.0" fill="none" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="70" cy="200" r="15" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+<text x="70" y="205" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#94A3B8" text-anchor="middle">1</text>
+<circle cx="70" cy="324" r="15" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="70" y="329" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#2563EB" text-anchor="middle">2</text>
+<circle cx="70" cy="448" r="15" fill="#FFFFFF" stroke="#D97706" stroke-width="2"/>
+<text x="70" y="453" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#D97706" text-anchor="middle">3</text>
+<circle cx="70" cy="548" r="15" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="70" y="553" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#7C3AED" text-anchor="middle">4</text>
+<circle cx="70" cy="698" r="15" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="70" y="703" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#2563EB" text-anchor="middle">5</text>
+<circle cx="70" cy="848" r="15" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="70" y="853" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#7C3AED" text-anchor="middle">6</text>
+<circle cx="70" cy="972" r="15" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
+<text x="70" y="977" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#059669" text-anchor="middle">7</text>
+<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 03 · STORYBY · PRODUCTION TOOLING</text>
+<text x="44.0" y="88.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#0F172A" text-anchor="start">Unified Creative Production Application</text>
+<text x="44.0" y="114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A purpose-built desktop editor that assembles whole creative packs from the studio's own production data.</text>
+<rect x="44.0" y="134.0" width="892.0" height="1.0" rx="0" fill="#E2E8F0" stroke="none" stroke-width="1"/>
+<rect x="118.0" y="170.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="118.0" y="182.0" width="3.5" height="80.0" rx="2" fill="#94A3B8" stroke="none" stroke-width="1"/>
+<rect x="860.2" y="187.0" width="57.8" height="21.0" rx="10.5" fill="#F1F5F9" stroke="none" stroke-width="1"/>
+<text x="889.1" y="201.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle" letter-spacing="1.4">INPUT</text>
+<text x="140.0" y="205.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Systems of record</text>
+<text x="140.0" y="232.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The shared asset library and the production database stay the single source of truth.</text>
+<rect x="140.0" y="243.0" width="91.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="186.0" y="257.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Google Drive</text>
+<rect x="239.9" y="243.0" width="68.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="273.9" y="257.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Airtable</text>
+<rect x="118.0" y="294.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="118.0" y="306.0" width="3.5" height="80.0" rx="2" fill="#2563EB" stroke="none" stroke-width="1"/>
+<rect x="830.5" y="311.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
+<text x="874.2" y="325.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1D4ED8" text-anchor="middle" letter-spacing="1.4">AUTOMATED</text>
+<text x="140.0" y="329.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Batch build planner</text>
+<text x="140.0" y="356.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Decodes a creative code into a full build plan and flags every missing asset up front.</text>
+<rect x="140.0" y="367.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="198.0" y="381.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Preflight report</text>
+<rect x="118.0" y="418.0" width="818.0" height="80.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="118.0" y="430.0" width="3.5" height="56.0" rx="2" fill="#D97706" stroke="none" stroke-width="1"/>
+<rect x="793.3" y="435.0" width="124.7" height="21.0" rx="10.5" fill="#FFFBEB" stroke="none" stroke-width="1"/>
+<text x="855.6" y="449.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#B45309" text-anchor="middle" letter-spacing="1.4">HUMAN DECISION</text>
+<text x="140.0" y="453.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Missing-asset review</text>
+<text x="140.0" y="480.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The designer closes the real gaps; from there the batch runs unattended.</text>
+<rect x="118.0" y="518.0" width="818.0" height="130.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="118.0" y="530.0" width="3.5" height="106.0" rx="2" fill="#7C3AED" stroke="none" stroke-width="1"/>
+<rect x="823.0" y="535.0" width="95.0" height="21.0" rx="10.5" fill="#F5F3FF" stroke="none" stroke-width="1"/>
+<text x="870.5" y="549.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" letter-spacing="1.4">AI SERVICE</text>
+<text x="140.0" y="553.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Unique asset creation</text>
+<text x="140.0" y="580.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Subscenes and hooks are cut automatically from approved masters; generative shots fill what the library lacks.</text>
+<rect x="140.0" y="591.0" width="103.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="192.0" y="605.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Shot detection</text>
+<rect x="251.9" y="591.0" width="85.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="294.9" y="605.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Hook re-cut</text>
+<rect x="345.9" y="591.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="403.8" y="605.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Generative video</text>
+<text x="140.0" y="628.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">The designer now directs unique assets instead of producing each one by hand.</text>
+<rect x="118.0" y="668.0" width="818.0" height="130.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="118.0" y="680.0" width="3.5" height="106.0" rx="2" fill="#2563EB" stroke="none" stroke-width="1"/>
+<rect x="830.5" y="685.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
+<text x="874.2" y="699.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1D4ED8" text-anchor="middle" letter-spacing="1.4">AUTOMATED</text>
+<text x="140.0" y="703.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Assembly and captions</text>
+<text x="140.0" y="730.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A full multi-track timeline — ripple, blade, rate stretch, snapping, live preview — with word-level captions.</text>
+<rect x="140.0" y="741.0" width="109.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="195.0" y="755.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Custom NLE core</text>
+<rect x="257.9" y="741.0" width="56.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="285.9" y="755.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">FFmpeg</text>
+<rect x="321.9" y="741.0" width="74.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="358.9" y="755.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">WebCodecs</text>
+<text x="140.0" y="778.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">No After Effects anywhere in the chain, and every model runs locally on the designer's machine.</text>
+<rect x="118.0" y="818.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="118.0" y="830.0" width="3.5" height="80.0" rx="2" fill="#7C3AED" stroke="none" stroke-width="1"/>
+<rect x="823.0" y="835.0" width="95.0" height="21.0" rx="10.5" fill="#F5F3FF" stroke="none" stroke-width="1"/>
+<text x="870.5" y="849.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" letter-spacing="1.4">AI SERVICE</text>
+<text x="140.0" y="853.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Localisation</text>
+<text x="140.0" y="880.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">20+ markets in one pass: voice cast, translated on-screen copy, re-timed captions.</text>
+<rect x="140.0" y="891.0" width="127.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="204.0" y="905.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Multilingual voice</text>
+<rect x="275.9" y="891.0" width="109.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="330.9" y="905.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Stem separation</text>
+<rect x="393.8" y="891.0" width="80.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="433.8" y="905.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Base reuse</text>
+<rect x="118.0" y="942.0" width="818.0" height="80.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
+<rect x="118.0" y="954.0" width="3.5" height="56.0" rx="2" fill="#059669" stroke="none" stroke-width="1"/>
+<rect x="815.6" y="959.0" width="102.4" height="21.0" rx="10.5" fill="#ECFDF5" stroke="none" stroke-width="1"/>
+<text x="866.8" y="973.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#047857" text-anchor="middle" letter-spacing="1.4">DELIVERABLE</text>
+<text x="140.0" y="977.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Batch render and delivery</text>
+<text x="140.0" y="1004.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">8+ creatives × 20+ languages, rendered and dropped straight into the delivery folder.</text>
+<rect x="44.0" y="1052.0" width="892.0" height="96.0" rx="10" fill="#F6FBF8" stroke="#CBE8DA" stroke-width="1.2"/>
+<text x="68.0" y="1079.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#047857" text-anchor="start" letter-spacing="1.8">BUSINESS OUTCOME</text>
+<text x="68.0" y="1114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="20.55045871559633" font-weight="700" fill="#0B3D2E" text-anchor="start">~100%</text>
+<text x="68.0" y="1134.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">of routine assembly automated</text>
+<rect x="273.6" y="1086.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="289.6" y="1114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="20.55045871559633" font-weight="700" fill="#0B3D2E" text-anchor="start">−80%</text>
+<text x="289.6" y="1134.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">time to produce a unique asset</text>
+<rect x="501.8" y="1086.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="517.8" y="1114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="20.55045871559633" font-weight="700" fill="#0B3D2E" text-anchor="start">20+</text>
+<text x="517.8" y="1134.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">markets built in one pass</text>
+<rect x="697.3" y="1086.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="713.3" y="1114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="20.55045871559633" font-weight="700" fill="#0B3D2E" text-anchor="start">0</text>
+<text x="713.3" y="1134.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">After Effects licences required</text>
+<text x="44.0" y="1180.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#94A3B8" text-anchor="start">Evolved out of Case 02 — the same production logic, rebuilt as a standalone application. Performance figures are presented as relative deltas under NDA.</text>
+</svg>
