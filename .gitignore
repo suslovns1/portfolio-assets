@@ -1,3 +1,4 @@
 __pycache__/
 .DS_Store
 backup/.notion_token
+backup/*.json
