@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Case 1 — Autonomous AI Creative Engine (Bini Games)."""
+"""Case 1 - Autonomous AI Creative Engine (Company 1)."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from flowkit import Flow
 
-f = Flow("CASE 01 · BINI GAMES · CREATIVE AUTOMATION",
+f = Flow("CASE 01 · COMPANY 1 · CREATIVE AUTOMATION",
          "Autonomous AI Creative Engine",
          "From a campaign brief to a review-ready video pack.")
 
@@ -45,7 +45,7 @@ f.step(7, "Creative pack",
 
 f.outcome([
     ("4 h → < 3 min", "brief to first draft"),
-    ("−80%", "unit cost per concept"),
+    ("-80%", "unit cost per concept"),
     ("Hundreds / week", "capacity, per designer"),
     ("2 000+ / 6 000+", "concepts / creatives in 6 months"),
 ])

@@ -21,7 +21,7 @@
 <text x="70" y="931" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#D97706" text-anchor="middle">6</text>
 <circle cx="70" cy="1052" r="15" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
 <text x="70" y="1057" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#059669" text-anchor="middle">7</text>
-<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 01 · BINI GAMES · CREATIVE AUTOMATION</text>
+<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 01 · COMPANY 1 · CREATIVE AUTOMATION</text>
 <text x="44.0" y="88.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#0F172A" text-anchor="start">Autonomous AI Creative Engine</text>
 <text x="44.0" y="114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">From a campaign brief to a review-ready video pack.</text>
 <rect x="44.0" y="134.0" width="892.0" height="1.0" rx="0" fill="#E2E8F0" stroke="none" stroke-width="1"/>
@@ -106,7 +106,7 @@
 <text x="68.0" y="1194.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">4 h → &lt; 3 min</text>
 <text x="68.0" y="1214.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">brief to first draft</text>
 <rect x="249.4" y="1166.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="273.8" y="1194.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">−80%</text>
+<text x="273.8" y="1194.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">-80%</text>
 <text x="273.8" y="1214.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">unit cost per concept</text>
 <rect x="435.5" y="1166.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
 <text x="460.0" y="1194.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">Hundreds / week</text>

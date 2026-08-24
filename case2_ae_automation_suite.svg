@@ -21,7 +21,7 @@
 <text x="70" y="853" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#D97706" text-anchor="middle">6</text>
 <circle cx="70" cy="948" r="15" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
 <text x="70" y="953" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#059669" text-anchor="middle">7</text>
-<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 02 · STORYBY · IN-TOOL AUTOMATION</text>
+<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 02 · COMPANY 2 · IN-TOOL AUTOMATION</text>
 <text x="44.0" y="88.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#0F172A" text-anchor="start">After Effects Creative Automation Suite</text>
 <text x="44.0" y="114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A custom panel that removes the routine of comp assembly without taking the designer out of After Effects.</text>
 <rect x="44.0" y="134.0" width="892.0" height="1.0" rx="0" fill="#E2E8F0" stroke="none" stroke-width="1"/>
@@ -37,26 +37,24 @@
 <rect x="830.5" y="313.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
 <text x="874.2" y="327.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1D4ED8" text-anchor="middle" letter-spacing="1.4">AUTOMATED</text>
 <text x="140.0" y="331.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Parser and asset resolver</text>
-<text x="140.0" y="358.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Decodes the code, resolves every asset from the library, repairs unreadable media.</text>
+<text x="140.0" y="358.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Decodes the code and resolves every asset from the library.</text>
 <rect x="140.0" y="369.0" width="103.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="192.0" y="383.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Naming grammar</text>
-<rect x="251.9" y="369.0" width="74.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="288.9" y="383.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Auto-heal</text>
-<rect x="333.9" y="369.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="391.8" y="383.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Preflight report</text>
-<text x="140.0" y="406.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">Gaps are reported before the queue starts.</text>
+<rect x="251.9" y="369.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="309.9" y="383.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Preflight report</text>
+<text x="140.0" y="406.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">Whatever is missing is reported before the queue starts.</text>
 <rect x="118.0" y="446.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="458.0" width="3.5" height="80.0" rx="2" fill="#2563EB" stroke="none" stroke-width="1"/>
 <rect x="830.5" y="463.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
 <text x="874.2" y="477.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1D4ED8" text-anchor="middle" letter-spacing="1.4">AUTOMATED</text>
 <text x="140.0" y="481.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Automated comp build</text>
-<text x="140.0" y="508.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Footage and hook layout, automatic overlay keying, approved copy from the production database.</text>
-<rect x="140.0" y="519.0" width="109.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="195.0" y="533.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Auto colour key</text>
-<rect x="257.9" y="519.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="315.9" y="533.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Airtable text DB</text>
-<rect x="381.8" y="519.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="439.8" y="533.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Brand typography</text>
+<text x="140.0" y="508.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Footage and hook layout, automatic element background removal, approved copy from the production database.</text>
+<rect x="140.0" y="519.0" width="121.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="201.0" y="533.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Linear colour key</text>
+<rect x="269.9" y="519.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="327.9" y="533.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Airtable text DB</text>
+<rect x="393.8" y="519.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="451.8" y="533.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Brand typography</text>
 <rect x="118.0" y="570.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="582.0" width="3.5" height="80.0" rx="2" fill="#7C3AED" stroke="none" stroke-width="1"/>
 <rect x="823.0" y="587.0" width="95.0" height="21.0" rx="10.5" fill="#F5F3FF" stroke="none" stroke-width="1"/>
@@ -72,7 +70,7 @@
 <rect x="830.5" y="711.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
 <text x="874.2" y="725.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1D4ED8" text-anchor="middle" letter-spacing="1.4">AUTOMATED</text>
 <text x="140.0" y="729.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Variation matrix and batch render</text>
-<text x="140.0" y="756.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Eight variations per pack built in one pass — hook × copy × music.</text>
+<text x="140.0" y="756.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Hook × copy × music, combined in one pass. Eight per pack is the studio standard.</text>
 <rect x="140.0" y="767.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="198.0" y="781.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Split-test ready</text>
 <rect x="263.9" y="767.0" width="199.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
@@ -91,16 +89,16 @@
 <text x="140.0" y="980.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Eight variations ready to test. Three to ten packs go out on a normal day.</text>
 <rect x="44.0" y="1028.0" width="892.0" height="96.0" rx="10" fill="#F6FBF8" stroke="#CBE8DA" stroke-width="1.2"/>
 <text x="68.0" y="1055.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#047857" text-anchor="start" letter-spacing="1.8">BUSINESS OUTCOME</text>
-<text x="68.0" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">24–80</text>
+<text x="68.0" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">24-80</text>
 <text x="68.0" y="1110.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">creatives per day</text>
-<rect x="209.1" y="1062.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="239.1" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">8 × 3–10</text>
-<text x="239.1" y="1110.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">per pack × packs per day</text>
-<rect x="426.0" y="1062.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="455.9" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">20–100 min → minutes</text>
-<text x="455.9" y="1110.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">per pack, hands-on</text>
-<rect x="727.4" y="1062.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="757.3" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">0</text>
-<text x="757.3" y="1110.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">renders lost to gaps</text>
+<rect x="205.0" y="1062.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="230.9" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">8 × 3-10</text>
+<text x="230.9" y="1110.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">per pack × packs per day</text>
+<rect x="413.7" y="1062.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="439.6" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">20-100 min → minutes</text>
+<text x="439.6" y="1110.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">per pack, hands-on</text>
+<rect x="706.9" y="1062.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="732.8" y="1090.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">0</text>
+<text x="732.8" y="1110.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">batches stopped mid-queue</text>
 <text x="44.0" y="1156.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#94A3B8" text-anchor="start">Case 03 rebuilt the same logic outside After Effects. Figures are relative deltas under NDA.</text>
 </svg>

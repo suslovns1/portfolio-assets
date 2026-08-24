@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Case 4 — Multi-Language Localisation Engine (background dubbing service)."""
+"""Case 4 - Multi-Language Localisation Engine (background dubbing service)."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from flowkit import Flow
 
-f = Flow("CASE 04 · STORYBY · GLOBAL SCALING",
+f = Flow("CASE 04 · COMPANY 2 · GLOBAL SCALING",
          "Multi-Language Localisation Engine",
          "Turns one winning creative into twenty market-ready versions as a background job.")
 
@@ -24,7 +24,7 @@ f.step(3, "Routing decision",
            ("Yes", "Base reuse. The editor's trim already defines the mapping, 1:1.", "output"),
            ("No", "Send the read down the adaptive re-timing ladder.", "system"),
        ],
-       note="Five categorical checks, not a similarity score.")
+       note="Five hard checks. All five must pass.")
 
 f.step(4, "Adaptive re-timing ladder",
        "Each rung runs only when the previous one runs out of room.",

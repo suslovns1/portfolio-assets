@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Case 5 — Semantic Archive Search & Timeline Drafter."""
+"""Case 5 - Semantic Archive Search & Timeline Drafter."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from flowkit import Flow
@@ -40,7 +40,7 @@ f.step(7, "Handoff to the editor's NLE",
 f.outcome([
     ("40% → 6%", "of edit time spent searching"),
     ("$100 → $35", "cost per finished video"),
-    ("−85%", "shot-hunting time"),
+    ("-85%", "shot-hunting time"),
     ("< 1 s", "query across terabytes"),
 ])
 f.footnote("Performance figures are presented as relative deltas under NDA.")

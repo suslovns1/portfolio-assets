@@ -21,7 +21,7 @@
 <text x="70" y="827" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#7C3AED" text-anchor="middle">6</text>
 <circle cx="70" cy="946" r="15" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
 <text x="70" y="951" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#059669" text-anchor="middle">7</text>
-<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 03 · STORYBY · PRODUCTION TOOLING</text>
+<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 03 · COMPANY 2 · PRODUCTION TOOLING</text>
 <text x="44.0" y="88.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#0F172A" text-anchor="start">Unified Creative Production Application</text>
 <text x="44.0" y="114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A purpose-built desktop editor that assembles whole creative packs from the studio's own production data.</text>
 <rect x="44.0" y="134.0" width="892.0" height="1.0" rx="0" fill="#E2E8F0" stroke="none" stroke-width="1"/>
@@ -66,7 +66,7 @@
 <rect x="830.5" y="659.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
 <text x="874.2" y="673.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#1D4ED8" text-anchor="middle" letter-spacing="1.4">AUTOMATED</text>
 <text x="140.0" y="677.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Assembly and captions</text>
-<text x="140.0" y="704.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A full multi-track timeline — ripple, blade, rate stretch, snapping, live preview — with word-level captions.</text>
+<text x="140.0" y="704.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">A full multi-track timeline - ripple, blade, rate stretch, snapping, live preview - with word-level captions.</text>
 <rect x="140.0" y="715.0" width="109.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="195.0" y="729.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Custom NLE core</text>
 <rect x="257.9" y="715.0" width="56.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
@@ -97,13 +97,13 @@
 <text x="68.0" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">160</text>
 <text x="68.0" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">localised videos per batch</text>
 <rect x="273.6" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="309.3" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">480–1 600</text>
-<text x="309.3" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">per day, at 3–10 batches</text>
+<text x="309.3" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">480-1 600</text>
+<text x="309.3" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">per day, at 3-10 batches</text>
 <rect x="501.8" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
 <text x="537.4" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">~100%</text>
 <text x="537.4" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">of routine automated</text>
 <rect x="703.8" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="739.4" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">−80%</text>
+<text x="739.4" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">-80%</text>
 <text x="739.4" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">unique asset creation</text>
 <text x="44.0" y="1154.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#94A3B8" text-anchor="start">Evolved out of Case 02, rebuilt as a standalone application. Figures are relative deltas under NDA.</text>
 </svg>

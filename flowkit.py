@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-flowkit — linear process-flow diagrams for the portfolio's automation case studies.
+flowkit - linear process-flow diagrams for the portfolio's automation case studies.
 
 One vertical spine, one step per row, one sentence per step. Light background so the
 diagram reads as part of the document rather than as a separate piece of art, which is

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Case 3 — Unified Creative Production Application (standalone desktop editor)."""
+"""Case 3 - Unified Creative Production Application (standalone desktop editor)."""
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from flowkit import Flow
 
-f = Flow("CASE 03 · STORYBY · PRODUCTION TOOLING",
+f = Flow("CASE 03 · COMPANY 2 · PRODUCTION TOOLING",
          "Unified Creative Production Application",
          "A purpose-built desktop editor that assembles whole creative packs from the studio's own production data.")
 
@@ -25,7 +25,7 @@ f.step(4, "Unique asset creation",
        role="ai", chips=["Shot detection", "Hook re-cut", "Generative video"])
 
 f.step(5, "Assembly and captions",
-       "A full multi-track timeline — ripple, blade, rate stretch, snapping, live preview — with word-level captions.",
+       "A full multi-track timeline - ripple, blade, rate stretch, snapping, live preview - with word-level captions.",
        role="system", chips=["Custom NLE core", "FFmpeg", "WebCodecs"],
        note="No After Effects in the chain. Every model runs locally.")
 
@@ -39,9 +39,9 @@ f.step(7, "Batch render and delivery",
 
 f.outcome([
     ("160", "localised videos per batch"),
-    ("480–1 600", "per day, at 3–10 batches"),
+    ("480-1 600", "per day, at 3-10 batches"),
     ("~100%", "of routine automated"),
-    ("−80%", "unique asset creation"),
+    ("-80%", "unique asset creation"),
 ])
 f.footnote("Evolved out of Case 02, rebuilt as a standalone application. Figures are relative deltas under NDA.")
 
