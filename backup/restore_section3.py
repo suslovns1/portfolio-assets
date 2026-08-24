@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 """
-Restore Section 3 of the Notion portfolio from a JSON snapshot in this folder.
+Restore Section 3 of the Notion portfolio from a JSON snapshot.
 
-    python3 restore_section3.py section3_20260823_pre_voice_rewrite.json
+    python3 restore_section3.py ~/WORK/CV_BUILDER/backups_notion/<snapshot>.json
+
+Snapshots live OUTSIDE this repo (`~/WORK/CV_BUILDER/backups_notion/`) because this
+repo is public and the older ones still carry the real client names that the page
+now redacts to Company 1 / Company 2.
 
 Appends the snapshot's blocks, then deletes the Section 3 blocks that were there
 before — in that order, so a failure mid-way never leaves the page without the
