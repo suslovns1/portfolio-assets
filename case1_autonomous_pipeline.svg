@@ -63,15 +63,15 @@
 <rect x="823.0" y="613.0" width="95.0" height="21.0" rx="10.5" fill="#F5F3FF" stroke="none" stroke-width="1"/>
 <text x="870.5" y="627.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" letter-spacing="1.4">AI SERVICE</text>
 <text x="140.0" y="631.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Parallel asset generation</text>
-<text x="140.0" y="658.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Four independent queues run off one manifest, each under a hard cost ceiling.</text>
-<rect x="140.0" y="669.0" width="80.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="180.0" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Voice cast</text>
-<rect x="227.9" y="669.0" width="85.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="270.9" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Score &amp; SFX</text>
-<rect x="321.9" y="669.0" width="85.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="364.9" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Key visuals</text>
-<rect x="415.8" y="669.0" width="91.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
-<text x="461.8" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Motion shots</text>
+<text x="140.0" y="658.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Four independent queues run off one manifest, each with its own generation limit.</text>
+<rect x="140.0" y="669.0" width="38.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="159.0" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">TTS</text>
+<rect x="186.0" y="669.0" width="38.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="205.0" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">TTM</text>
+<rect x="232.0" y="669.0" width="38.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="251.0" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">T2I</text>
+<rect x="278.0" y="669.0" width="38.0" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+<text x="296.9" y="683.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">T2V</text>
 <text x="140.0" y="706.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#94A3B8" text-anchor="start">Higgsfield drives the video models, ElevenLabs the voices.</text>
 <rect x="118.0" y="746.0" width="818.0" height="130.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="758.0" width="3.5" height="106.0" rx="2" fill="#2563EB" stroke="none" stroke-width="1"/>

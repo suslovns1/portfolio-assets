@@ -26,8 +26,8 @@ f.step(3, "Concept sign-off",
        ])
 
 f.step(4, "Parallel asset generation",
-       "Four independent queues run off one manifest, each under a hard cost ceiling.",
-       role="ai", chips=["Voice cast", "Score & SFX", "Key visuals", "Motion shots"],
+       "Four independent queues run off one manifest, each with its own generation limit.",
+       role="ai", chips=["TTS", "TTM", "T2I", "T2V"],
        note="Higgsfield drives the video models, ElevenLabs the voices.")
 
 f.step(5, "Automated assembly and render",
