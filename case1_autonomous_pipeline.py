@@ -31,7 +31,7 @@ f.step(4, "Parallel asset generation",
        note="Higgsfield drives the video models, ElevenLabs the voices.")
 
 f.step(5, "Automated assembly and render",
-       "Forced alignment turns the voiceover into a timing grid; shots snap to narration beats.",
+       "Forced alignment turns the voiceover into a timing grid; shots snap to it automatically.",
        role="system", chips=["Forced Alignment", "Captions", "Auto-ducked music", "Batch render"],
        note="The whole variant matrix renders unattended.")
 

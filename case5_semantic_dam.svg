@@ -21,7 +21,7 @@
 <text x="70" y="827" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#D97706" text-anchor="middle">6</text>
 <circle cx="70" cy="922" r="15" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
 <text x="70" y="927" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#059669" text-anchor="middle">7</text>
-<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 05 · DOCUMENTARY &amp; EXPLAINER PRODUCTION</text>
+<text x="44.0" y="54.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="600" fill="#94A3B8" text-anchor="start" letter-spacing="2.2">CASE 05 · COMPANY 3 · DOCUMENTARY PRODUCTION</text>
 <text x="44.0" y="88.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="27" font-weight="700" fill="#0F172A" text-anchor="start">Semantic Archive Search &amp; Timeline Drafter</text>
 <text x="44.0" y="114.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Makes a terabyte footage archive answerable in plain language, and returns a first cut.</text>
 <rect x="44.0" y="134.0" width="892.0" height="1.0" rx="0" fill="#E2E8F0" stroke="none" stroke-width="1"/>
@@ -29,8 +29,8 @@
 <rect x="118.0" y="182.0" width="3.5" height="56.0" rx="2" fill="#94A3B8" stroke="none" stroke-width="1"/>
 <rect x="860.2" y="187.0" width="57.8" height="21.0" rx="10.5" fill="#F1F5F9" stroke="none" stroke-width="1"/>
 <text x="889.1" y="201.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle" letter-spacing="1.4">INPUT</text>
-<text x="140.0" y="205.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Footage archive</text>
-<text x="140.0" y="232.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">Terabytes of licensed archive, b-roll and interview rushes.</text>
+<text x="140.0" y="205.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Source libraries</text>
+<text x="140.0" y="232.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The YouTube and stock footage every project in the series is cut from.</text>
 <rect x="118.0" y="270.0" width="818.0" height="104.0" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.2"/>
 <rect x="118.0" y="282.0" width="3.5" height="80.0" rx="2" fill="#2563EB" stroke="none" stroke-width="1"/>
 <rect x="830.5" y="287.0" width="87.5" height="21.0" rx="10.5" fill="#EFF6FF" stroke="none" stroke-width="1"/>
@@ -57,7 +57,7 @@
 <rect x="823.0" y="561.0" width="95.0" height="21.0" rx="10.5" fill="#F5F3FF" stroke="none" stroke-width="1"/>
 <text x="870.5" y="575.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#6D28D9" text-anchor="middle" letter-spacing="1.4">AI SERVICE</text>
 <text x="140.0" y="579.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Script-driven retrieval</text>
-<text x="140.0" y="606.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The approved script, broken into beats, becomes the query. Each beat gets scored candidates.</text>
+<text x="140.0" y="606.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">The approved script, split into segments, becomes the query. Each segment gets scored candidates.</text>
 <rect x="140.0" y="617.0" width="127.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="204.0" y="631.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">Semantic retrieval</text>
 <rect x="275.9" y="617.0" width="115.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
@@ -80,22 +80,19 @@
 <rect x="118.0" y="904.0" width="3.5" height="80.0" rx="2" fill="#059669" stroke="none" stroke-width="1"/>
 <rect x="815.6" y="909.0" width="102.4" height="21.0" rx="10.5" fill="#ECFDF5" stroke="none" stroke-width="1"/>
 <text x="866.8" y="923.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#047857" text-anchor="middle" letter-spacing="1.4">DELIVERABLE</text>
-<text x="140.0" y="927.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Handoff to the editor's NLE</text>
-<text x="140.0" y="954.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">An editable sequence, delivered in the tool the editor already works in.</text>
+<text x="140.0" y="927.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="19" font-weight="600" fill="#0F172A" text-anchor="start">Handoff to the editor</text>
+<text x="140.0" y="954.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#475569" text-anchor="start">An editable sequence that opens straight in Premiere Pro.</text>
 <rect x="140.0" y="965.0" width="91.9" height="20.0" rx="5" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
 <text x="186.0" y="979.5" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11" font-weight="500" fill="#64748B" text-anchor="middle">EDL / FCPXML</text>
 <rect x="44.0" y="1026.0" width="892.0" height="96.0" rx="10" fill="#F6FBF8" stroke="#CBE8DA" stroke-width="1.2"/>
 <text x="68.0" y="1053.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#047857" text-anchor="start" letter-spacing="1.8">BUSINESS OUTCOME</text>
-<text x="68.0" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">40% → 6%</text>
-<text x="68.0" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">of edit time spent searching</text>
-<rect x="287.5" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="324.0" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">$100 → $35</text>
-<text x="324.0" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">cost per finished video</text>
-<rect x="510.8" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="547.2" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">-85%</text>
-<text x="547.2" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">shot-hunting time</text>
-<rect x="694.8" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
-<text x="731.3" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">&lt; 1 s</text>
-<text x="731.3" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">query across terabytes</text>
+<text x="68.0" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">80% → 10%</text>
+<text x="68.0" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">of project time spent searching</text>
+<rect x="334.6" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="398.4" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">$100 → $35</text>
+<text x="398.4" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">cost per finished video</text>
+<rect x="612.6" y="1060.0" width="1.0" height="46.0" rx="0" fill="#CBE8DA" stroke="none" stroke-width="1"/>
+<text x="676.5" y="1088.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="700" fill="#0B3D2E" text-anchor="start">&lt; 1 s</text>
+<text x="676.5" y="1108.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="12" font-weight="400" fill="#5B8474" text-anchor="start">query across terabytes</text>
 <text x="44.0" y="1154.0" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#94A3B8" text-anchor="start">Performance figures are presented as relative deltas under NDA.</text>
 </svg>

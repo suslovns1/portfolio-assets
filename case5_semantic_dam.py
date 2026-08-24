@@ -4,12 +4,12 @@ import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from flowkit import Flow
 
-f = Flow("CASE 05 · DOCUMENTARY & EXPLAINER PRODUCTION",
+f = Flow("CASE 05 · COMPANY 3 · DOCUMENTARY PRODUCTION",
          "Semantic Archive Search & Timeline Drafter",
          "Makes a terabyte footage archive answerable in plain language, and returns a first cut.")
 
-f.step(1, "Footage archive",
-       "Terabytes of licensed archive, b-roll and interview rushes.",
+f.step(1, "Source libraries",
+       "The YouTube and stock footage every project in the series is cut from.",
        role="input")
 
 f.step(2, "Shot segmentation",
@@ -22,7 +22,7 @@ f.step(3, "Description and indexing",
        note="Indexed once per archive, reused by every project after.")
 
 f.step(4, "Script-driven retrieval",
-       "The approved script, broken into beats, becomes the query. Each beat gets scored candidates.",
+       "The approved script, split into segments, becomes the query. Each segment gets scored candidates.",
        role="ai", chips=["Semantic retrieval", "Confidence score"])
 
 f.step(5, "Rule-based assembly",
@@ -33,14 +33,13 @@ f.step(6, "Editor review",
        "Low-confidence cuts are flagged on the timeline for the editor.",
        role="human")
 
-f.step(7, "Handoff to the editor's NLE",
-       "An editable sequence, delivered in the tool the editor already works in.",
+f.step(7, "Handoff to the editor",
+       "An editable sequence that opens straight in Premiere Pro.",
        role="output", chips=["EDL / FCPXML"])
 
 f.outcome([
-    ("40% → 6%", "of edit time spent searching"),
+    ("80% → 10%", "of project time spent searching"),
     ("$100 → $35", "cost per finished video"),
-    ("-85%", "shot-hunting time"),
     ("< 1 s", "query across terabytes"),
 ])
 f.footnote("Performance figures are presented as relative deltas under NDA.")
